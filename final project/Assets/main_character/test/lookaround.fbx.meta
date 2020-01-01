@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: a7dd8612599e389469461c185af96697
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: back
+  - first:
+      1: 100002
+    second: Character1_Head
+  - first:
+      1: 100004
+    second: Character1_Hips
+  - first:
+      1: 100006
+    second: Character1_LeftArm
+  - first:
+      1: 100008
+    second: Character1_LeftFoot
+  - first:
+      1: 100010
+    second: Character1_LeftForeArm
+  - first:
+      1: 100012
+    second: Character1_LeftHand
+  - first:
+      1: 100014
+    second: Character1_LeftHandIndex1
+  - first:
+      1: 100016
+    second: Character1_LeftHandIndex2
+  - first:
+      1: 100018
+    second: Character1_LeftHandIndex3
+  - first:
+      1: 100020
+    second: Character1_LeftHandIndex4
+  - first:
+      1: 100022
+    second: Character1_LeftHandMiddle1
+  - first:
+      1: 100024
+    second: Character1_LeftHandMiddle2
+  - first:
+      1: 100026
+    second: Character1_LeftHandMiddle3
+  - first:
+      1: 100028
+    second: Character1_LeftHandMiddle4
+  - first:
+      1: 100030
+    second: Character1_LeftHandPinky1
+  - first:
+      1: 100032
+    second: Character1_LeftHandPinky2
+  - first:
+      1: 100034
+    second: Character1_LeftHandPinky3
+  - first:
+      1: 100036
+    second: Character1_LeftHandPinky4
+  - first:
+      1: 100038
+    second: Character1_LeftHandRing1
+  - first:
+      1: 100040
+    second: Character1_LeftHandRing2
+  - first:
+      1: 100042
+    second: Character1_LeftHandRing3
+  - first:
+      1: 100044
+    second: Character1_LeftHandRing4
+  - first:
+      1: 100046
+    second: Character1_LeftHandThumb1
+  - first:
+      1: 100048
+    second: Character1_LeftHandThumb2
+  - first:
+      1: 100050
+    second: Character1_LeftHandThumb3
+  - first:
+      1: 100052
+    second: Character1_LeftHandThumb4
+  - first:
+      1: 100054
+    second: Character1_LeftLeg
+  - first:
+      1: 100056
+    second: Character1_LeftShoulder
+  - first:
+      1: 100058
+    second: Character1_LeftToeBase
+  - first:
+      1: 100060
+    second: Character1_LeftUpLeg
+  - first:
+      1: 100062
+    second: Character1_Neck
+  - first:
+      1: 100064
+    second: Character1_Reference
+  - first:
+      1: 100066
+    second: Character1_RightArm
+  - first:
+      1: 100068
+    second: Character1_RightFoot
+  - first:
+      1: 100070
+    second: Character1_RightForeArm
+  - first:
+      1: 100072
+    second: Character1_RightHand
+  - first:
+      1: 100074
+    second: Character1_RightHandIndex1
+  - first:
+      1: 100076
+    second: Character1_RightHandIndex2
+  - first:
+      1: 100078
+    second: Character1_RightHandIndex3
+  - first:
+      1: 100080
+    second: Character1_RightHandIndex4
+  - first:
+      1: 100082
+    second: Character1_RightHandMiddle1
+  - first:
+      1: 100084
+    second: Character1_RightHandMiddle2
+  - first:
+      1: 100086
+    second: Character1_RightHandMiddle3
+  - first:
+      1: 100088
+    second: Character1_RightHandMiddle4
+  - first:
+      1: 100090
+    second: Character1_RightHandPinky1
+  - first:
+      1: 100092
+    second: Character1_RightHandPinky2
+  - first:
+      1: 100094
+    second: Character1_RightHandPinky3
+  - first:
+      1: 100096
+    second: Character1_RightHandPinky4
+  - first:
+      1: 100098
+    second: Character1_RightHandRing1
+  - first:
+      1: 100100
+    second: Character1_RightHandRing2
+  - first:
+      1: 100102
+    second: Character1_RightHandRing3
+  - first:
+      1: 100104
+    second: Character1_RightHandRing4
+  - first:
+      1: 100106
+    second: Character1_RightHandThumb1
+  - first:
+      1: 100108
+    second: Character1_RightHandThumb2
+  - first:
+      1: 100110
+    second: Character1_RightHandThumb3
+  - first:
+      1: 100112
+    second: Character1_RightHandThumb4
+  - first:
+      1: 100114
+    second: Character1_RightLeg
+  - first:
+      1: 100116
+    second: Character1_RightShoulder
+  - first:
+      1: 100118
+    second: Character1_RightToeBase
+  - first:
+      1: 100120
+    second: Character1_RightUpLeg
+  - first:
+      1: 100122
+    second: Character1_Spine
+  - first:
+      1: 100124
+    second: Character1_Spine1
+  - first:
+      1: 100126
+    second: Character1_Spine2
+  - first:
+      1: 100128
+    second: joint2
+  - first:
+      1: 100130
+    second: joint3
+  - first:
+      1: 100132
+    second: joint4
+  - first:
+      1: 100134
+    second: joint5
+  - first:
+      1: 100136
+    second: joint6
+  - first:
+      1: 100138
+    second: joint7
+  - first:
+      1: 100140
+    second: joint8
+  - first:
+      1: 100142
+    second: joint9
+  - first:
+      1: 100144
+    second: //RootNode
+  - first:
+      1: 100146
+    second: shuang
+  - first:
+      4: 400000
+    second: back
+  - first:
+      4: 400002
+    second: Character1_Head
+  - first:
+      4: 400004
+    second: Character1_Hips
+  - first:
+      4: 400006
+    second: Character1_LeftArm
+  - first:
+      4: 400008
+    second: Character1_LeftFoot
+  - first:
+      4: 400010
+    second: Character1_LeftForeArm
+  - first:
+      4: 400012
+    second: Character1_LeftHand
+  - first:
+      4: 400014
+    second: Character1_LeftHandIndex1
+  - first:
+      4: 400016
+    second: Character1_LeftHandIndex2
+  - first:
+      4: 400018
+    second: Character1_LeftHandIndex3
+  - first:
+      4: 400020
+    second: Character1_LeftHandIndex4
+  - first:
+      4: 400022
+    second: Character1_LeftHandMiddle1
+  - first:
+      4: 400024
+    second: Character1_LeftHandMiddle2
+  - first:
+      4: 400026
+    second: Character1_LeftHandMiddle3
+  - first:
+      4: 400028
+    second: Character1_LeftHandMiddle4
+  - first:
+      4: 400030
+    second: Character1_LeftHandPinky1
+  - first:
+      4: 400032
+    second: Character1_LeftHandPinky2
+  - first:
+      4: 400034
+    second: Character1_LeftHandPinky3
+  - first:
+      4: 400036
+    second: Character1_LeftHandPinky4
+  - first:
+      4: 400038
+    second: Character1_LeftHandRing1
+  - first:
+      4: 400040
+    second: Character1_LeftHandRing2
+  - first:
+      4: 400042
+    second: Character1_LeftHandRing3
+  - first:
+      4: 400044
+    second: Character1_LeftHandRing4
+  - first:
+      4: 400046
+    second: Character1_LeftHandThumb1
+  - first:
+      4: 400048
+    second: Character1_LeftHandThumb2
+  - first:
+      4: 400050
+    second: Character1_LeftHandThumb3
+  - first:
+      4: 400052
+    second: Character1_LeftHandThumb4
+  - first:
+      4: 400054
+    second: Character1_LeftLeg
+  - first:
+      4: 400056
+    second: Character1_LeftShoulder
+  - first:
+      4: 400058
+    second: Character1_LeftToeBase
+  - first:
+      4: 400060
+    second: Character1_LeftUpLeg
+  - first:
+      4: 400062
+    second: Character1_Neck
+  - first:
+      4: 400064
+    second: Character1_Reference
+  - first:
+      4: 400066
+    second: Character1_RightArm
+  - first:
+      4: 400068
+    second: Character1_RightFoot
+  - first:
+      4: 400070
+    second: Character1_RightForeArm
+  - first:
+      4: 400072
+    second: Character1_RightHand
+  - first:
+      4: 400074
+    second: Character1_RightHandIndex1
+  - first:
+      4: 400076
+    second: Character1_RightHandIndex2
+  - first:
+      4: 400078
+    second: Character1_RightHandIndex3
+  - first:
+      4: 400080
+    second: Character1_RightHandIndex4
+  - first:
+      4: 400082
+    second: Character1_RightHandMiddle1
+  - first:
+      4: 400084
+    second: Character1_RightHandMiddle2
+  - first:
+      4: 400086
+    second: Character1_RightHandMiddle3
+  - first:
+      4: 400088
+    second: Character1_RightHandMiddle4
+  - first:
+      4: 400090
+    second: Character1_RightHandPinky1
+  - first:
+      4: 400092
+    second: Character1_RightHandPinky2
+  - first:
+      4: 400094
+    second: Character1_RightHandPinky3
+  - first:
+      4: 400096
+    second: Character1_RightHandPinky4
+  - first:
+      4: 400098
+    second: Character1_RightHandRing1
+  - first:
+      4: 400100
+    second: Character1_RightHandRing2
+  - first:
+      4: 400102
+    second: Character1_RightHandRing3
+  - first:
+      4: 400104
+    second: Character1_RightHandRing4
+  - first:
+      4: 400106
+    second: Character1_RightHandThumb1
+  - first:
+      4: 400108
+    second: Character1_RightHandThumb2
+  - first:
+      4: 400110
+    second: Character1_RightHandThumb3
+  - first:
+      4: 400112
+    second: Character1_RightHandThumb4
+  - first:
+      4: 400114
+    second: Character1_RightLeg
+  - first:
+      4: 400116
+    second: Character1_RightShoulder
+  - first:
+      4: 400118
+    second: Character1_RightToeBase
+  - first:
+      4: 400120
+    second: Character1_RightUpLeg
+  - first:
+      4: 400122
+    second: Character1_Spine
+  - first:
+      4: 400124
+    second: Character1_Spine1
+  - first:
+      4: 400126
+    second: Character1_Spine2
+  - first:
+      4: 400128
+    second: joint2
+  - first:
+      4: 400130
+    second: joint3
+  - first:
+      4: 400132
+    second: joint4
+  - first:
+      4: 400134
+    second: joint5
+  - first:
+      4: 400136
+    second: joint6
+  - first:
+      4: 400138
+    second: joint7
+  - first:
+      4: 400140
+    second: joint8
+  - first:
+      4: 400142
+    second: joint9
+  - first:
+      4: 400144
+    second: //RootNode
+  - first:
+      4: 400146
+    second: shuang
+  - first:
+      21: 2100000
+    second: scene2_Dull_Green_1
+  - first:
+      21: 2100002
+    second: scene2_Black_1
+  - first:
+      21: 2100004
+    second: scene2_Skin_1
+  - first:
+      21: 2100006
+    second: scene2_Brown_1
+  - first:
+      21: 2100008
+    second: scene2_Light_Grey_1
+  - first:
+      21: 2100010
+    second: scene2_Grey_1
+  - first:
+      21: 2100012
+    second: scene2_Turqoise_1
+  - first:
+      21: 2100014
+    second: scene2_Light_Blue_Transparent_1
+  - first:
+      21: 2100016
+    second: scene2_Lime_Green_1
+  - first:
+      21: 2100018
+    second: scene2_Dark_Green_1
+  - first:
+      43: 4300000
+    second: shuang
+  - first:
+      74: 7400000
+    second: lookAround
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: shuang
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'shuang:Character1_RightLeg' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: lookAround
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 238
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: shuang:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shuang:Character1_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: lookaround(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shuang:shuang
+      parentName: lookaround(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7130271, y: 0, z: -0, w: 0.7011365}
+      scale: {x: 0.044363, y: 0.044363, z: 0.044363}
+    - name: shuang:Character1_Reference
+      parentName: lookaround(Clone)
+      position: {x: -0, y: 0, z: 0.02}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.2026234, y: 1.2026234, z: 1.2026234}
+    - name: shuang:Character1_Hips
+      parentName: shuang:Character1_Reference
+      position: {x: -0.0007423487, y: 1.0086721, z: -0.016630309}
+      rotation: {x: -0.000000030488874, y: 1.0364603e-11, z: 6.1629335e-10, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: shuang:Character1_LeftUpLeg
+      parentName: shuang:Character1_Hips
+      position: {x: -0.089100175, y: -0.062700056, z: -0.000000012538172}
+      rotation: {x: 0.0000000087936645, y: -2.0729182e-11, z: -0.0000000012325866,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: shuang:Character1_LeftLeg
+      parentName: shuang:Character1_LeftUpLeg
+      position: {x: -0.040597193, y: -0.44878688, z: 0.00000052118514}
+      rotation: {x: -0.000000021984162, y: 3.1093753e-11, z: 0.0000000018488799, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+    - name: shuang:Character1_LeftFoot
+      parentName: shuang:Character1_LeftLeg
+      position: {x: -6.4526445e-10, y: -0.40700966, z: 0.000000004241357}
+      rotation: {x: 0.000000013190498, y: 0.0000000012118574, z: -0.0000000012533159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: shuang:Character1_LeftToeBase
+      parentName: shuang:Character1_LeftFoot
+      position: {x: -0.00000007404344, y: -0.062623225, z: 0.1295474}
+      rotation: {x: -0, y: -0, z: -1.5985002e-17, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: shuang:Character1_RightUpLeg
+      parentName: shuang:Character1_Hips
+      position: {x: 0.08910019, y: -0.06269999, z: 0.000000009364521}
+      rotation: {x: 0.000000007102903, y: -0.000000004899252, z: 0.0000000019317967,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: shuang:Character1_RightLeg
+      parentName: shuang:Character1_RightUpLeg
+      position: {x: 0.034621377, y: -0.4487868, z: 0.0000033106453}
+      rotation: {x: -0.000000019785746, y: 0.000000004847429, z: -0.0000000050132636,
+        w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: shuang:Character1_RightFoot
+      parentName: shuang:Character1_RightLeg
+      position: {x: -0.000000010200068, y: -0.40700942, z: -0.000000108255215}
+      rotation: {x: 0.000000013865851, y: 0.00004189025, z: 0.000000002479017, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: shuang:Character1_RightToeBase
+      parentName: shuang:Character1_RightFoot
+      position: {x: 0.000000008302254, y: -0.06262324, z: 0.12954758}
+      rotation: {x: 0.000025416814, y: 0.0000000012332748, z: 5.63194e-11, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: shuang:Character1_Spine
+      parentName: shuang:Character1_Hips
+      position: {x: -0.0000000057505627, y: 0.07000006, z: 0.000000013226919}
+      rotation: {x: -3.4070524e-11, y: 0.0000000017072391, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1.0000015, y: 1.0000014, z: 1.0000001}
+    - name: shuang:Character1_Spine1
+      parentName: shuang:Character1_Spine
+      position: {x: -0.1266667, y: 0.000000023831124, z: 0.000000016241644}
+      rotation: {x: -6.712622e-10, y: -0.0000000024377649, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999994}
+    - name: shuang:Character1_Spine2
+      parentName: shuang:Character1_Spine1
+      position: {x: 7.831301e-10, y: 0.12666675, z: -0.000000007328484}
+      rotation: {x: -1.2585115e-10, y: 6.289251e-10, z: -1.3975931e-18, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+    - name: shuang:Character1_LeftShoulder
+      parentName: shuang:Character1_Spine2
+      position: {x: -0.07000002, y: 0.14255208, z: -0.000000005309071}
+      rotation: {x: 0.000000003297686, y: -0.000000009826976, z: -0.0000064074984,
+        w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: shuang:Character1_LeftArm
+      parentName: shuang:Character1_LeftShoulder
+      position: {x: -0.10707256, y: 0.00000006802257, z: -0.000000001754654}
+      rotation: {x: 0.0000000011410949, y: 0.000000009723758, z: 0.0000064074984,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: shuang:Character1_LeftForeArm
+      parentName: shuang:Character1_LeftArm
+      position: {x: -0.39839166, y: 0.00000014950994, z: 0.00000044622115}
+      rotation: {x: -0.000000035640365, y: -0.000000010876422, z: 1.3155599e-18, w: 1}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000002}
+    - name: shuang:Character1_LeftHand
+      parentName: shuang:Character1_LeftForeArm
+      position: {x: -0.2688416, y: 0.00000000328571, z: -0.01970048}
+      rotation: {x: 0.000000040670706, y: 0.000000020218886, z: 2.551848e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: shuang:Character1_LeftHandThumb1
+      parentName: shuang:Character1_LeftHand
+      position: {x: -0.043487616, y: -0.021171564, z: 0.06718004}
+      rotation: {x: -0.16554949, y: 0.3199142, z: 0.024707813, w: 0.93254375}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: shuang:Character1_LeftHandThumb2
+      parentName: shuang:Character1_LeftHandThumb1
+      position: {x: -0.031502698, y: -0.0043903543, z: 0.0070745447}
+      rotation: {x: -0.2370275, y: 0.091855735, z: 0.002338498, w: 0.9671478}
+      scale: {x: 1.000001, y: 1.000001, z: 1}
+    - name: shuang:Character1_LeftHandThumb3
+      parentName: shuang:Character1_LeftHandThumb2
+      position: {x: -0.04439019, y: -0.0047812457, z: 0.00000008366299}
+      rotation: {x: -0.00001221895, y: 0.000112906084, z: 0.017419245, w: 0.99984837}
+      scale: {x: 1.000001, y: 1.0000015, z: 1.0000002}
+    - name: shuang:Character1_LeftHandThumb4
+      parentName: shuang:Character1_LeftHandThumb3
+      position: {x: -0.02303661, y: 0.00020735545, z: -0.000017339567}
+      rotation: {x: -0, y: -0, z: 3.885779e-15, w: 1}
+      scale: {x: 1.0000013, y: 1.0000017, z: 1.0000001}
+    - name: shuang:Character1_LeftHandIndex1
+      parentName: shuang:Character1_LeftHand
+      position: {x: -0.08821982, y: 0.0019973284, z: 0.051201347}
+      rotation: {x: -0.0002433762, y: 0.040415574, z: -0.020230914, w: 0.99897814}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000002}
+    - name: shuang:Character1_LeftHandIndex2
+      parentName: shuang:Character1_LeftHandIndex1
+      position: {x: -0.049949422, y: 0.000000012036416, z: -0.00027138778}
+      rotation: {x: 0.00000007170079, y: -0.000000039115545, z: 0.0000000012516382,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: shuang:Character1_LeftHandIndex3
+      parentName: shuang:Character1_LeftHandIndex2
+      position: {x: -0.050356716, y: 0.00000012725421, z: 0.0022930559}
+      rotation: {x: -0.000000013036432, y: 0.000000031664964, z: -2.2759883e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: shuang:Character1_LeftHandIndex4
+      parentName: shuang:Character1_LeftHandIndex3
+      position: {x: -0.038021617, y: 0.00000008169524, z: -0.00043585186}
+      rotation: {x: 0.000000018623515, y: -0.000000035390254, z: 3.249145e-10, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: shuang:Character1_LeftHandMiddle1
+      parentName: shuang:Character1_LeftHand
+      position: {x: -0.08809881, y: 0.013374714, z: 0.01778999}
+      rotation: {x: -0.000000468669, y: 0.034073427, z: -0.025599414, w: 0.99909145}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: shuang:Character1_LeftHandMiddle2
+      parentName: shuang:Character1_LeftHandMiddle1
+      position: {x: -0.064113185, y: -0.0000000010395805, z: -0.0000009787511}
+      rotation: {x: 0.000000069165246, y: -0.000000020132573, z: 2.1519303e-12, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000001}
+    - name: shuang:Character1_LeftHandMiddle3
+      parentName: shuang:Character1_LeftHandMiddle2
+      position: {x: -0.048924163, y: 0.000000017362654, z: -0.0000013269585}
+      rotation: {x: 0.000000049551083, y: -0.000000036470734, z: 1.5420181e-12, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1}
+    - name: shuang:Character1_LeftHandMiddle4
+      parentName: shuang:Character1_LeftHandMiddle3
+      position: {x: -0.046420753, y: 0.000000016021897, z: -0.0000016422898}
+      rotation: {x: -0, y: -0, z: 1.6305383e-20, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: shuang:Character1_LeftHandRing1
+      parentName: shuang:Character1_LeftHand
+      position: {x: -0.0889376, y: 0.011122229, z: -0.014885079}
+      rotation: {x: 0.0031784086, y: 0.070807725, z: -0.037476532, w: 0.99678075}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000002}
+    - name: shuang:Character1_LeftHandRing2
+      parentName: shuang:Character1_LeftHandRing1
+      position: {x: -0.055034745, y: -0.000000009790698, z: -0.0046692723}
+      rotation: {x: 0.0000000011386873, y: -0.000000017756973, z: 3.5496125e-14, w: 1}
+      scale: {x: 0.99999946, y: 0.99999905, z: 0.99999976}
+    - name: shuang:Character1_LeftHandRing3
+      parentName: shuang:Character1_LeftHandRing2
+      position: {x: -0.044719104, y: -9.1072017e-10, z: -0.0026708313}
+      rotation: {x: -0.000000020334483, y: 0.000000005100446, z: -6.3181524e-13, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+    - name: shuang:Character1_LeftHandRing4
+      parentName: shuang:Character1_LeftHandRing3
+      position: {x: -0.041818786, y: -0.0000000021986155, z: -0.0020652388}
+      rotation: {x: 8.549072e-11, y: 0.000000029576764, z: 3.0619271e-15, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: shuang:Character1_LeftHandPinky1
+      parentName: shuang:Character1_LeftHand
+      position: {x: -0.088822715, y: 0.001711095, z: -0.057429742}
+      rotation: {x: -0.000000016046222, y: 0.0340601, z: -0.02561229, w: 0.99909157}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: shuang:Character1_LeftHandPinky2
+      parentName: shuang:Character1_LeftHandPinky1
+      position: {x: -0.046372976, y: -0.00000022683207, z: -0.000000023079869}
+      rotation: {x: 0.000000012682323, y: 0.000000039525688, z: -7.813205e-17, w: 1}
+      scale: {x: 1.0000006, y: 1.0000013, z: 1.0000004}
+    - name: shuang:Character1_LeftHandPinky3
+      parentName: shuang:Character1_LeftHandPinky2
+      position: {x: -0.040780567, y: -0.00000031388353, z: -0.0019812686}
+      rotation: {x: -0.00000006210473, y: -0.000000038862364, z: -2.7783771e-15, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: shuang:Character1_LeftHandPinky4
+      parentName: shuang:Character1_LeftHandPinky3
+      position: {x: -0.033040725, y: -0.0000001942341, z: -0.0030372306}
+      rotation: {x: 0.0000000604559, y: 0.000000039940268, z: 0.00000008940696, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: shuang:Character1_RightShoulder
+      parentName: shuang:Character1_Spine2
+      position: {x: 0.07000002, y: 0.14255214, z: 0.000000013783417}
+      rotation: {x: 0.000000014331741, y: 0.000000004198015, z: 0.000020235775, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: shuang:Character1_RightArm
+      parentName: shuang:Character1_RightShoulder
+      position: {x: 0.10707281, y: 0.000000008012686, z: -0.0000000019532858}
+      rotation: {x: -0.000000004862661, y: -0.0000000061805303, z: -0.000020235775,
+        w: 1}
+      scale: {x: 1.0000005, y: 1, z: 0.9999999}
+    - name: shuang:Character1_RightForeArm
+      parentName: shuang:Character1_RightArm
+      position: {x: 0.39483508, y: 0.00000041610065, z: 0.00000038368125}
+      rotation: {x: 0.00000001911029, y: 0.0000000011950151, z: -2.4244751e-17, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.000001}
+    - name: shuang:Character1_RightHand
+      parentName: shuang:Character1_RightForeArm
+      position: {x: 0.27519643, y: 0.000000018438804, z: -0.020273928}
+      rotation: {x: -0.00000003889604, y: 4.9750065e-10, z: -5.3565728e-17, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000004}
+    - name: shuang:Character1_RightHandThumb1
+      parentName: shuang:Character1_RightHand
+      position: {x: 0.029769085, y: -0.018301677, z: 0.06774611}
+      rotation: {x: -0.2517167, y: -0.31702912, z: 0.18467437, w: 0.89555943}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000006}
+    - name: shuang:Character1_RightHandThumb2
+      parentName: shuang:Character1_RightHandThumb1
+      position: {x: 0.03559729, y: -0.026125323, z: 0.003670664}
+      rotation: {x: 0.038719103, y: -0.08655387, z: -0.19841325, w: 0.9755211}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000002}
+    - name: shuang:Character1_RightHandThumb3
+      parentName: shuang:Character1_RightHandThumb2
+      position: {x: 0.032652266, y: -0.0053992937, z: -0.00047835227}
+      rotation: {x: 0.002159811, y: 0.06307506, z: -0.06981178, w: 0.99556184}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000002}
+    - name: shuang:Character1_RightHandThumb4
+      parentName: shuang:Character1_RightHandThumb3
+      position: {x: 0.02665118, y: 0.000000049885653, z: 0.0009313679}
+      rotation: {x: 4.6566123e-10, y: -0.0000000074505797, z: -2.3283062e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000002}
+    - name: shuang:Character1_RightHandIndex1
+      parentName: shuang:Character1_RightHand
+      position: {x: 0.09561339, y: 0.0019973323, z: 0.053585485}
+      rotation: {x: 0.000000019294967, y: -0.027482528, z: -2.9905092e-10, w: 0.9996223}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+    - name: shuang:Character1_RightHandIndex2
+      parentName: shuang:Character1_RightHandIndex1
+      position: {x: 0.043465097, y: 0.000000008263878, z: -0.00006556662}
+      rotation: {x: 0.000000010835811, y: 0.0000000037252899, z: 0.00000008914284,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000018, z: 1.0000004}
+    - name: shuang:Character1_RightHandIndex3
+      parentName: shuang:Character1_RightHandIndex2
+      position: {x: 0.04564936, y: -0.000000023197666, z: -0.0010508435}
+      rotation: {x: 0.000000028264953, y: -0.0000000037252934, z: -0.000000090217824,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: shuang:Character1_RightHandIndex4
+      parentName: shuang:Character1_RightHandIndex3
+      position: {x: 0.038500648, y: -0.0000000013160464, z: -0.0010405207}
+      rotation: {x: 9.309139e-10, y: -0.0000000018626449, z: -2.5593588e-11, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: shuang:Character1_RightHandMiddle1
+      parentName: shuang:Character1_RightHand
+      position: {x: 0.09652006, y: 0.005008939, z: 0.01807518}
+      rotation: {x: 0.000000019297369, y: 0.017452963, z: 1.900812e-10, w: 0.9998477}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000004}
+    - name: shuang:Character1_RightHandMiddle2
+      parentName: shuang:Character1_RightHandMiddle1
+      position: {x: 0.043412343, y: 0.0000000029884446, z: 0.0030005535}
+      rotation: {x: 3.019451e-10, y: 0.000000027939674, z: 0.00000008942585, w: 1}
+      scale: {x: 0.9999997, y: 1.0000002, z: 1}
+    - name: shuang:Character1_RightHandMiddle3
+      parentName: shuang:Character1_RightHandMiddle2
+      position: {x: 0.049871102, y: 0.00000001386802, z: 0.00077668467}
+      rotation: {x: -0.00000002078792, y: -0.000000031664964, z: -0.00000008978345,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1}
+    - name: shuang:Character1_RightHandMiddle4
+      parentName: shuang:Character1_RightHandMiddle3
+      position: {x: 0.060070116, y: -0.000000011948619, z: 0.0053237383}
+      rotation: {x: 0.000000020485976, y: 0.000000014901161, z: 3.5759443e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: shuang:Character1_RightHandRing1
+      parentName: shuang:Character1_RightHand
+      position: {x: 0.097667456, y: 0.0037992825, z: -0.016713103}
+      rotation: {x: 0.00017012905, y: -0.015549754, z: 0.0075374227, w: 0.9998507}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000004}
+    - name: shuang:Character1_RightHandRing2
+      parentName: shuang:Character1_RightHandRing1
+      position: {x: 0.039548125, y: -0.000000119186815, z: -0.0002023406}
+      rotation: {x: 0.00000001396771, y: 0.000000005587935, z: 2.4381522e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000004}
+    - name: shuang:Character1_RightHandRing3
+      parentName: shuang:Character1_RightHandRing2
+      position: {x: 0.038488824, y: 0.000000009180884, z: -0.00039740172}
+      rotation: {x: 0.0000000065182633, y: 0.000000005587935, z: 1.1378043e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: shuang:Character1_RightHandRing4
+      parentName: shuang:Character1_RightHandRing3
+      position: {x: 0.05236716, y: -0.0000000085041885, z: -0.0042362465}
+      rotation: {x: -0, y: -0, z: -1.7291646e-18, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
+    - name: shuang:Character1_RightHandPinky1
+      parentName: shuang:Character1_RightHand
+      position: {x: 0.086071335, y: -0.0031302231, z: -0.045412064}
+      rotation: {x: 0.003320611, y: -0.1094982, z: 0.015984353, w: 0.9938529}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: shuang:Character1_RightHandPinky2
+      parentName: shuang:Character1_RightHandPinky1
+      position: {x: 0.042391885, y: 0.0000002768552, z: -0.008032781}
+      rotation: {x: -0.0000006067566, y: 0.040807214, z: -0.000002030705, w: 0.9991671}
+      scale: {x: 0.9999999, y: 1.0000015, z: 1.0000002}
+    - name: shuang:Character1_RightHandPinky3
+      parentName: shuang:Character1_RightHandPinky2
+      position: {x: 0.037258156, y: 0.00000032828007, z: -0.0009841301}
+      rotation: {x: 0.000000009940975, y: 0.00000001303852, z: -0.0000000892496, w: 1}
+      scale: {x: 0.99999994, y: 0.9999993, z: 0.9999998}
+    - name: shuang:Character1_RightHandPinky4
+      parentName: shuang:Character1_RightHandPinky3
+      position: {x: 0.045294475, y: 0.00000056891736, z: -0.0035986009}
+      rotation: {x: 0.000000009613767, y: -0.000000007450586, z: 0.00000008959157,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: shuang:Character1_Neck
+      parentName: shuang:Character1_Spine2
+      position: {x: 0.0000000132195375, y: 0.29561082, z: 0.00000026358066}
+      rotation: {x: -5.076545e-10, y: -6.619622e-10, z: -9.577487e-19, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: shuang:Character1_Head
+      parentName: shuang:Character1_Neck
+      position: {x: 0.000000020295792, y: 0.4815708, z: 0.00000013151627}
+      rotation: {x: -0.000000005099136, y: 7.245426e-11, z: -2.1715739e-18, w: 1}
+      scale: {x: 0.92959404, y: 0.9295939, z: 0.929594}
+    - name: shuang:back
+      parentName: shuang:Character1_Spine
+      position: {x: -0.0318689, y: -0.00016339884, z: -0.4870158}
+      rotation: {x: 0.35670155, y: -0.16791987, z: 0.39142406, w: 0.83147717}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: shuang:joint2
+      parentName: shuang:back
+      position: {x: -0.2854343, y: -1.862999e-16, z: -2.9276248e-17}
+      rotation: {x: -0.07383563, y: 0.6266627, z: 0.42095524, w: 0.6516433}
+      scale: {x: 1, y: 0.99999976, z: 1.0000005}
+    - name: shuang:joint6
+      parentName: shuang:joint2
+      position: {x: -0.111353874, y: 0.51417196, z: -0.63506263}
+      rotation: {x: 0.04834965, y: 0.2082457, z: -0.22093187, w: 0.9515699}
+      scale: {x: 1.0000004, y: 1, z: 0.9999998}
+    - name: shuang:joint3
+      parentName: shuang:back
+      position: {x: -0.12134962, y: 0.12659477, z: -0.20200528}
+      rotation: {x: -0.2474125, y: 0.9548524, z: -0.06964391, w: -0.14897554}
+      scale: {x: 1.0000014, y: 0.9999999, z: 1.000002}
+    - name: shuang:joint7
+      parentName: shuang:joint3
+      position: {x: -0.28958312, y: 0.49069163, z: 0.612025}
+      rotation: {x: -0.17952426, y: -0.8890435, z: 0.00652182, w: 0.42110577}
+      scale: {x: 0.9999999, y: 0.9999997, z: 1.0000001}
+    - name: shuang:joint4
+      parentName: shuang:back
+      position: {x: 0.0690805, y: -0.07780888, z: -0.20997429}
+      rotation: {x: 0.10147708, y: 0.9733171, z: -0.14687718, w: -0.14416465}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000021}
+    - name: shuang:joint8
+      parentName: shuang:joint4
+      position: {x: -0.25214425, y: 0.15456526, z: 0.5551121}
+      rotation: {x: -0.10147705, y: -0.9733171, z: 0.14687712, w: -0.14416468}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.99999976}
+    - name: shuang:joint5
+      parentName: shuang:back
+      position: {x: -0.08405998, y: -0.2196048, z: 0.019535935}
+      rotation: {x: 0.06746797, y: 0.5944468, z: -0.576961, w: -0.5560551}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000011}
+    - name: shuang:joint9
+      parentName: shuang:joint5
+      position: {x: -0.13016689, y: 0.009757569, z: 0.65686005}
+      rotation: {x: -0.06746795, y: -0.5944468, z: 0.576961, w: -0.5560551}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000007}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

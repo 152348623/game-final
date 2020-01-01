@@ -1,0 +1,762 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-01-01T22:00:13.276+08:00
+  initializedAtString: 2020-01-01T21:51:18.682+08:00
+  entries:
+  - path: final project\Assembly-CSharp.csproj
+    fullPath: D:\unity\game-final-project\final project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Assembly-CSharp-Editor.csproj
+    fullPath: D:\unity\game-final-project\final project\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\unity\game-final-project\final project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\final project.sln
+    fullPath: D:\unity\game-final-project\final project\final project.sln
+    projectPath: final project.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\unity\game-final-project\final project\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\assetDatabase3
+    fullPath: D:\unity\game-final-project\final project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\EditorInstance.json
+    fullPath: D:\unity\game-final-project\final project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\unity\game-final-project\final project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\unity\game-final-project\final project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\unity\game-final-project\final project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713
+    projectPath: Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713.info
+    projectPath: Library\metadata\18\18cfb079a4fb30a46bf21c2f3dbb0713.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\23\23b270fd728652740aff62aef34e0081.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\23\23b270fd728652740aff62aef34e0081.info
+    projectPath: Library\metadata\23\23b270fd728652740aff62aef34e0081.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\4b\4bb7386b80981fc4ba8e701ff7b5a1ba
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\4b\4bb7386b80981fc4ba8e701ff7b5a1ba
+    projectPath: Library\metadata\4b\4bb7386b80981fc4ba8e701ff7b5a1ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\4e\4ee731d726c3dd34eb36806ea0d8fe98
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\4e\4ee731d726c3dd34eb36806ea0d8fe98
+    projectPath: Library\metadata\4e\4ee731d726c3dd34eb36806ea0d8fe98
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\7f\7fd0bb2d553e3084db5a9272c6b35b14
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\7f\7fd0bb2d553e3084db5a9272c6b35b14
+    projectPath: Library\metadata\7f\7fd0bb2d553e3084db5a9272c6b35b14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\cc\cc10c350e88d2ef46b5f6045fabd0901
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\cc\cc10c350e88d2ef46b5f6045fabd0901
+    projectPath: Library\metadata\cc\cc10c350e88d2ef46b5f6045fabd0901
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\cc\ccad39defc46ad04f97ef34173e7a703
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\cc\ccad39defc46ad04f97ef34173e7a703
+    projectPath: Library\metadata\cc\ccad39defc46ad04f97ef34173e7a703
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\metadata\df\df23adc88e50687479de1176f2efbba1.info
+    fullPath: D:\unity\game-final-project\final project\Library\metadata\df\df23adc88e50687479de1176f2efbba1.info
+    projectPath: Library\metadata\df\df23adc88e50687479de1176f2efbba1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\unity\game-final-project\final project\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\unity\game-final-project\final project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\StateCache\Hierarchy\acd053-mainStage.json
+    fullPath: D:\unity\game-final-project\final project\Library\StateCache\Hierarchy\acd053-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\acd053-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\StateCache\SceneView\d35aa3-mainStage.json
+    fullPath: D:\unity\game-final-project\final project\Library\StateCache\SceneView\d35aa3-mainStage.json
+    projectPath: Library\StateCache\SceneView\d35aa3-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\ProjectSettings\QualitySettings.asset
+    fullPath: D:\unity\game-final-project\final project\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\unity\game-final-project\final project\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Temp\__Backupscenes\0.backup
+    fullPath: D:\unity\game-final-project\final project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityLockfile
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-0767816f932567e458ca1dacb0029881
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-0767816f932567e458ca1dacb0029881
+    projectPath: Temp\UnityTempFile-0767816f932567e458ca1dacb0029881
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-0b05a7112340139459d8d9edc13e39bc
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-0b05a7112340139459d8d9edc13e39bc
+    projectPath: Temp\UnityTempFile-0b05a7112340139459d8d9edc13e39bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-0b199182d127727468ae762eb1d103f8
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-0b199182d127727468ae762eb1d103f8
+    projectPath: Temp\UnityTempFile-0b199182d127727468ae762eb1d103f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-14930172e6e34c74893b506595b7fc65
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-14930172e6e34c74893b506595b7fc65
+    projectPath: Temp\UnityTempFile-14930172e6e34c74893b506595b7fc65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-17aeb526b455c474a899e9d50d3526cd
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-17aeb526b455c474a899e9d50d3526cd
+    projectPath: Temp\UnityTempFile-17aeb526b455c474a899e9d50d3526cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-1b10367c1d86bbe438e7a29ebb39252f
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-1b10367c1d86bbe438e7a29ebb39252f
+    projectPath: Temp\UnityTempFile-1b10367c1d86bbe438e7a29ebb39252f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-1ca4fa1b2f8c6b24cbe9ef4aa8b76b91
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-1ca4fa1b2f8c6b24cbe9ef4aa8b76b91
+    projectPath: Temp\UnityTempFile-1ca4fa1b2f8c6b24cbe9ef4aa8b76b91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-272b837526da8904a9bf20365c5dd0b3
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-272b837526da8904a9bf20365c5dd0b3
+    projectPath: Temp\UnityTempFile-272b837526da8904a9bf20365c5dd0b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3014ddd577973c246a673b5d6cdd239a
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3014ddd577973c246a673b5d6cdd239a
+    projectPath: Temp\UnityTempFile-3014ddd577973c246a673b5d6cdd239a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-310df7211ef0c1a44b0365b24ee36ca1
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-310df7211ef0c1a44b0365b24ee36ca1
+    projectPath: Temp\UnityTempFile-310df7211ef0c1a44b0365b24ee36ca1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3326b0b79952c9d4194fe61b2049a2e6
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3326b0b79952c9d4194fe61b2049a2e6
+    projectPath: Temp\UnityTempFile-3326b0b79952c9d4194fe61b2049a2e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3545f2c2bdce22b459a1fb2c617d2d8b
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3545f2c2bdce22b459a1fb2c617d2d8b
+    projectPath: Temp\UnityTempFile-3545f2c2bdce22b459a1fb2c617d2d8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3b96d3133cd05b94082c219bd46a8251
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3b96d3133cd05b94082c219bd46a8251
+    projectPath: Temp\UnityTempFile-3b96d3133cd05b94082c219bd46a8251
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3bdcc330a30399646b0289adf0086fc6
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3bdcc330a30399646b0289adf0086fc6
+    projectPath: Temp\UnityTempFile-3bdcc330a30399646b0289adf0086fc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3d812ec6383e7724cbc7c7a80131ad5f
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3d812ec6383e7724cbc7c7a80131ad5f
+    projectPath: Temp\UnityTempFile-3d812ec6383e7724cbc7c7a80131ad5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3e8e044a9d97cfc458f2494ceaab4ec8
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3e8e044a9d97cfc458f2494ceaab4ec8
+    projectPath: Temp\UnityTempFile-3e8e044a9d97cfc458f2494ceaab4ec8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-3ee1a93379841284994414cba9eb48a9
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-3ee1a93379841284994414cba9eb48a9
+    projectPath: Temp\UnityTempFile-3ee1a93379841284994414cba9eb48a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-425539fe0e55ae7429d6981b42cbd581
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-425539fe0e55ae7429d6981b42cbd581
+    projectPath: Temp\UnityTempFile-425539fe0e55ae7429d6981b42cbd581
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-45b17073605f0f846ae9ff06267b80a5
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-45b17073605f0f846ae9ff06267b80a5
+    projectPath: Temp\UnityTempFile-45b17073605f0f846ae9ff06267b80a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-478f822368967474e8d3d8f8b020d889
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-478f822368967474e8d3d8f8b020d889
+    projectPath: Temp\UnityTempFile-478f822368967474e8d3d8f8b020d889
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-4d1534b1388c8074f8a27a5462383854
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-4d1534b1388c8074f8a27a5462383854
+    projectPath: Temp\UnityTempFile-4d1534b1388c8074f8a27a5462383854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-5032f865f1a056b48956bfae1775ca0c
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-5032f865f1a056b48956bfae1775ca0c
+    projectPath: Temp\UnityTempFile-5032f865f1a056b48956bfae1775ca0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-54b24cafa120b5649818e8d9f7145946
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-54b24cafa120b5649818e8d9f7145946
+    projectPath: Temp\UnityTempFile-54b24cafa120b5649818e8d9f7145946
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-56d24dd5ff99f0742a4cd9bb94878a58
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-56d24dd5ff99f0742a4cd9bb94878a58
+    projectPath: Temp\UnityTempFile-56d24dd5ff99f0742a4cd9bb94878a58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-5a79cb1a280963549bc37c51e6d93d1c
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-5a79cb1a280963549bc37c51e6d93d1c
+    projectPath: Temp\UnityTempFile-5a79cb1a280963549bc37c51e6d93d1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-5b82294d4127e5147a7f28699a0a2925
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-5b82294d4127e5147a7f28699a0a2925
+    projectPath: Temp\UnityTempFile-5b82294d4127e5147a7f28699a0a2925
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-6029735290c79514a965dc565bce0d89
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-6029735290c79514a965dc565bce0d89
+    projectPath: Temp\UnityTempFile-6029735290c79514a965dc565bce0d89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-606f02a2c2727e94aac8a1a738fb26c4
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-606f02a2c2727e94aac8a1a738fb26c4
+    projectPath: Temp\UnityTempFile-606f02a2c2727e94aac8a1a738fb26c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-71b422abfc4dd0e4e9ebe76f62a3a115
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-71b422abfc4dd0e4e9ebe76f62a3a115
+    projectPath: Temp\UnityTempFile-71b422abfc4dd0e4e9ebe76f62a3a115
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-72cdf278a76d42d43a57eb19018ce116
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-72cdf278a76d42d43a57eb19018ce116
+    projectPath: Temp\UnityTempFile-72cdf278a76d42d43a57eb19018ce116
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-764ecf163f771694a9dbc399b2c0b7af
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-764ecf163f771694a9dbc399b2c0b7af
+    projectPath: Temp\UnityTempFile-764ecf163f771694a9dbc399b2c0b7af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-7b575d0a678dc154aabc5c6674e596b7
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-7b575d0a678dc154aabc5c6674e596b7
+    projectPath: Temp\UnityTempFile-7b575d0a678dc154aabc5c6674e596b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-7f0ea3fe0937fed4787ca258c37c3143
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-7f0ea3fe0937fed4787ca258c37c3143
+    projectPath: Temp\UnityTempFile-7f0ea3fe0937fed4787ca258c37c3143
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-8c398d28c37fd0c48a3b5ef36282fdaf
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-8c398d28c37fd0c48a3b5ef36282fdaf
+    projectPath: Temp\UnityTempFile-8c398d28c37fd0c48a3b5ef36282fdaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-9609767a48d96e748917f780161db22a
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-9609767a48d96e748917f780161db22a
+    projectPath: Temp\UnityTempFile-9609767a48d96e748917f780161db22a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-9b4465f6c23a0eb47bdfb8e84a0dee06
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-9b4465f6c23a0eb47bdfb8e84a0dee06
+    projectPath: Temp\UnityTempFile-9b4465f6c23a0eb47bdfb8e84a0dee06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-9dc9201e802a8ae4486d92ee2a6d4a49
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-9dc9201e802a8ae4486d92ee2a6d4a49
+    projectPath: Temp\UnityTempFile-9dc9201e802a8ae4486d92ee2a6d4a49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-9e48c4e0a55ceee4396a0d581e76d46f
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-9e48c4e0a55ceee4396a0d581e76d46f
+    projectPath: Temp\UnityTempFile-9e48c4e0a55ceee4396a0d581e76d46f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-a10ecc7fd29e3aa42a4cdeaf614ba73f
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-a10ecc7fd29e3aa42a4cdeaf614ba73f
+    projectPath: Temp\UnityTempFile-a10ecc7fd29e3aa42a4cdeaf614ba73f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-a97979e46343b9143a514533c0e2bf36
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-a97979e46343b9143a514533c0e2bf36
+    projectPath: Temp\UnityTempFile-a97979e46343b9143a514533c0e2bf36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-b3aac8070a328c1409f51b1f97eda208
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-b3aac8070a328c1409f51b1f97eda208
+    projectPath: Temp\UnityTempFile-b3aac8070a328c1409f51b1f97eda208
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-c3dd13148031576409e640f4d3826cd9
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-c3dd13148031576409e640f4d3826cd9
+    projectPath: Temp\UnityTempFile-c3dd13148031576409e640f4d3826cd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-c4fc0ac2532c3e2479eee20341f77967
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-c4fc0ac2532c3e2479eee20341f77967
+    projectPath: Temp\UnityTempFile-c4fc0ac2532c3e2479eee20341f77967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-c9fde0c8f30644e48a6325aca385fa04
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-c9fde0c8f30644e48a6325aca385fa04
+    projectPath: Temp\UnityTempFile-c9fde0c8f30644e48a6325aca385fa04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-d3d1182eb72ed694ebafe8e9cb477ff9
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-d3d1182eb72ed694ebafe8e9cb477ff9
+    projectPath: Temp\UnityTempFile-d3d1182eb72ed694ebafe8e9cb477ff9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-db69608c0935e454796fd200e047ad6c
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-db69608c0935e454796fd200e047ad6c
+    projectPath: Temp\UnityTempFile-db69608c0935e454796fd200e047ad6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-e257d43d96ebc484eb9b218a6b47efd3
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-e257d43d96ebc484eb9b218a6b47efd3
+    projectPath: Temp\UnityTempFile-e257d43d96ebc484eb9b218a6b47efd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Temp\UnityTempFile-f47c111d2af590a4f825a85eb4bb79b5
+    fullPath: D:\unity\game-final-project\final project\Temp\UnityTempFile-f47c111d2af590a4f825a85eb4bb79b5
+    projectPath: Temp\UnityTempFile-f47c111d2af590a4f825a85eb4bb79b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

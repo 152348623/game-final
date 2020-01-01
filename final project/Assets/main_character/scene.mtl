@@ -1,0 +1,31 @@
+# Exported from 3D Builder
+
+newmtl Dull_Green_0
+Kd 0.043026 0.533315 0.374085
+
+newmtl Black_0
+Kd 0.233323 0.233323 0.233323
+
+newmtl Skin_0
+Kd 1.000000 0.866846 0.647990
+
+newmtl Brown_0
+Kd 0.326659 0.228203 0.190223
+
+newmtl Light_Grey_0
+Kd 0.906332 0.906332 0.906332
+
+newmtl Grey_0
+Kd 0.639990 0.639990 0.639990
+
+newmtl Turqoise_0
+Kd 0.403701 0.906332 0.678631
+
+newmtl Light_Blue_Transparent_0
+Kd 0.759318 0.906332 0.883147
+
+newmtl Lime_Green_0
+Kd 0.561966 0.906332 0.379861
+
+newmtl Dark_Green_0
+Kd 0.042127 0.193323 0.129733
