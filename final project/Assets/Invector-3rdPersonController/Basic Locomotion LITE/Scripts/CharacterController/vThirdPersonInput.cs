@@ -122,8 +122,6 @@ namespace Invector.CharacterController
             {
                 if (!Cursor.visible)
                     Cursor.visible = true;
-                else
-                    Application.Quit();
             }
         }
 

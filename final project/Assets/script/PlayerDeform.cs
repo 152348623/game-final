@@ -91,8 +91,9 @@ public class PlayerDeform : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.E))    // 從變身物件變成人   E : 變回人
         {
+            playerObj.GetComponent<Rigidbody>().position.Set(playerObj.transform.position.x, 1f, playerObj.transform.position.z);
             playerObj.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
-            playerObj.GetComponent<Rigidbody>().rotation = Quaternion.Euler(0f, 0f, 2f);
+            playerObj.GetComponent<Rigidbody>().rotation = Quaternion.Euler(0f, 0f, 0f);
             playerObj.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeRotation;
 
             playerObj.transform.GetChild(1).gameObject.SetActive(true);    // 原本人物
