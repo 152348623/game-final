@@ -10,11 +10,11 @@ public class show_image : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        image_die.enabled = false;
+        image_die.gameObject.SetActive(false);
     }
     void show()
     {
-        image_die.enabled = true;
+        image_die.gameObject.SetActive(true);
     }
     // Update is called once per frame
     void Update()

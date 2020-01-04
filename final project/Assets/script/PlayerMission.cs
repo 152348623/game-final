@@ -89,7 +89,7 @@ public class PlayerMission : MonoBehaviour
 
             if(Input.GetMouseButtonDown(0))
             {
-                missionArray[i].SetActive(false);
+                 missionObj.SetActive(false);
             }
         }
 
