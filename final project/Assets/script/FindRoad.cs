@@ -18,7 +18,7 @@ public class FindRoad : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();        //接收NavMeshAgent
         childCount = target_obj.transform.childCount;                   //初始追逐目標物件
         targetChild = target_obj.transform.GetChild(0).gameObject;
-        
+        print(targetChild);
     }
 
     // Update is called once per frame
@@ -37,6 +37,7 @@ public class FindRoad : MonoBehaviour
             }
             else    // 已找到target 隨機選 換target
             {
+                print(targetChild.name);
                 int randomNum = UnityEngine.Random.Range(0, childCount);
                 targetChild = target_obj.transform.GetChild(randomNum).gameObject;
                 isTouchTarget = false;

@@ -1,23 +1,29 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public class PlayerDeform : MonoBehaviour
 {
     public GameObject playerObj;
     float distance;
     public GameObject[] deformArray = new GameObject[4];   // 存變身物件
+
+    private int scene;
+    private int deformCount;
     // Start is called before the first frame update
     void Start()
     {
         distance = 1000f;
+        scene = SceneManager.GetActiveScene().buildIndex;
+        deformCount = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
-        KeyDown();
+        //if(deformCount <5)
+            KeyDown();
     }
 
     private bool IsSmallDistanceOfDeform(GameObject player, GameObject deform)   // 判斷player與範圍內的deformObj之間的距離
@@ -58,7 +64,6 @@ public class PlayerDeform : MonoBehaviour
             }
         }
 
-
         if (deformObj.tag == "deform" && Input.GetKeyUp(KeyCode.F))  //碰到物件 可以獲得變身物件    F:獲取變身物件
         {
             for (int i = 0; i < 4; i++)
@@ -69,6 +74,9 @@ public class PlayerDeform : MonoBehaviour
                     deformArray[i].transform.parent = playerObj.transform;
                     deformArray[i].SetActive(false);
                     deformArray[i].transform.position = playerObj.transform.position;
+
+                    
+                    //deformCount++;
                     break;
                 }
             }

@@ -19,14 +19,14 @@ public class pauseGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)&& isPause == false)
+        if (Input.GetKeyDown(KeyCode.Escape) && isPause == false)
         {
             isPause = true;
             pannelUI.SetActive(isPause);
             // print(pannelUI.GetComponent<InspectorNameAttribute>());
             Time.timeScale = 0;
         }
-        else if(Input.GetKeyDown(KeyCode.Escape) && isPause == true)
+        else if (Input.GetKeyDown(KeyCode.Escape) && isPause == true)
         {
             Time.timeScale = 1;
             isPause = false;
@@ -42,7 +42,8 @@ public class pauseGame : MonoBehaviour
     public void restart()
     {
         Time.timeScale = 1;
-        SceneManager.LoadScene(1);
+        int scene = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(scene);
     }
     public void back()
     {
@@ -52,6 +53,12 @@ public class pauseGame : MonoBehaviour
     public void exit()
     {
         Time.timeScale = 1;
-        Application.Quit();
+
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            Application.Quit();
+        #endif
+
     }
 }
