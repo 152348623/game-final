@@ -13,21 +13,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-01-01T04:01:36.411+08:00
-  initializedAtString: 2020-01-01T04:01:36.258+08:00
+  lastUpdatedAtString: 2020-01-04T18:03:08.004+08:00
+  initializedAtString: 2020-01-04T17:17:54.205+08:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: mission
+    tracking: origin/mission
+  - name: yung_dev
+    tracking: origin/yung_dev
   remoteBranches:
-  - name: origin/deform-touch-shine
-    tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/magic-circle
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
+  - name: origin/mission
+    tracking: '[None]'
+  - name: origin/yung_dev
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/152348623/game-final-project.git
+    url: https://github.com/152348623/game-final.git
     login: 
     user: 
     host: 
@@ -36,40 +44,64 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - mission
+    - yung_dev
     values:
     - name: master
       remote:
         name: origin
-        url: https://github.com/152348623/game-final-project.git
+        url: https://github.com/152348623/game-final.git
       trackingBranch: master
+    - name: mission
+      remote:
+        name: origin
+        url: https://github.com/152348623/game-final.git
+      trackingBranch: mission
+    - name: yung_dev
+      remote:
+        name: origin
+        url: https://github.com/152348623/game-final.git
+      trackingBranch: yung_dev
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - deform-touch-shine
       - HEAD
+      - magic-circle
       - master
+      - mission
+      - yung_dev
     subKeyValues:
     - Values:
-      - name: deform-touch-shine
-        remote:
-          name: origin
-          url: https://github.com/152348623/game-final-project.git
-        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/152348623/game-final-project.git
+          url: https://github.com/152348623/game-final.git
+        trackingBranch: 
+      - name: magic-circle
+        remote:
+          name: origin
+          url: https://github.com/152348623/game-final.git
         trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/152348623/game-final-project.git
+          url: https://github.com/152348623/game-final.git
+        trackingBranch: 
+      - name: mission
+        remote:
+          name: origin
+          url: https://github.com/152348623/game-final.git
+        trackingBranch: 
+      - name: yung_dev
+        remote:
+          name: origin
+          url: https://github.com/152348623/game-final.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/152348623/game-final-project.git
+      url: https://github.com/152348623/game-final.git
