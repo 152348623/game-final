@@ -13,139 +13,1080 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-01-04T17:08:10.408+08:00
-  initializedAtString: 2020-01-04T17:02:40.529+08:00
+  lastUpdatedAtString: 2020-01-04T17:57:44.835+08:00
+  initializedAtString: 2020-01-04T17:18:25.360+08:00
   entries:
-  - path: final project\.vs\final project\v15\.suo
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE.meta
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\.vs\\final project\\v15\\.suo"
-    projectPath: .vs\final project\v15\.suo
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\.vs\final project\v15\Server\sqlite3\storage.ide
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\_Icon.png
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\.vs\\final project\\v15\\Server\\sqlite3\\storage.ide"
-    projectPath: .vs\final project\v15\Server\sqlite3\storage.ide
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\_Icon.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\_Icon.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\.vs\final project\v15\Server\sqlite3\storage.ide-shm
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\_Icon.png.meta
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\.vs\\final project\\v15\\Server\\sqlite3\\storage.ide-shm"
-    projectPath: .vs\final project\v15\Server\sqlite3\storage.ide-shm
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\_Icon.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\_Icon.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\.vs\final project\v15\Server\sqlite3\storage.ide-wal
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\_ReadMe.pdf
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\.vs\\final project\\v15\\Server\\sqlite3\\storage.ide-wal"
-    projectPath: .vs\final project\v15\Server\sqlite3\storage.ide-wal
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\_ReadMe.pdf"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\_ReadMe.pdf
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assembly-CSharp.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\_ReadMe.pdf.meta
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assembly-CSharp.csproj"
-    projectPath: Assembly-CSharp.csproj
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\_ReadMe.pdf.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\_ReadMe.pdf.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assembly-CSharp-Editor.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles.meta
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assembly-CSharp-Editor.csproj"
-    projectPath: Assembly-CSharp-Editor.csproj
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assembly-CSharp-Editor-firstpass.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_1.png
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assembly-CSharp-Editor-firstpass.csproj"
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_1.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_3.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_3.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_3.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_3.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_4.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_4.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_4.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Magic_Circle_4.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Magic_Circle_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Materials.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials\Magic_Circle_1.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Materials\\Magic_Circle_1.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials\Magic_Circle_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials\Magic_Circle_1.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Circles\\Materials\\Magic_Circle_1.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Circles\Materials\Magic_Circle_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Aura
+      Demo Scene FREE.unity
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Aura Demo
+      Scene FREE.unity"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Aura Demo Scene
+      FREE.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Aura
+      Demo Scene FREE.unity.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Aura Demo
+      Scene FREE.unity.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Aura Demo Scene
+      FREE.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Glyph.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Glyph.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Glyph_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Glyph_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Glyph_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic
+      Circle.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Magic
+      Circle.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic
+      Circle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic
+      Circle.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Magic
+      Circle.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic
+      Circle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic_Circle_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Magic_Circle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic_Circle_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic_Circle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Magic_Circle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Magic_Circle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Particle.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Particle.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Particle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Particle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Particle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Rune.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Rune.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune_3.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Rune_3.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune_3.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Rune_3.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Rune_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Smoke.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Smoke.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Smoke_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Smoke_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Smoke_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Spiral.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Spiral.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral_Doodle_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Spiral_Doodle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral_Doodle_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral_Doodle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_1\\Spiral_Doodle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_1\Spiral_Doodle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic
+      Circle.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Magic
+      Circle.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic
+      Circle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic
+      Circle.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Magic
+      Circle.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic
+      Circle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic_Circle_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Magic_Circle_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic_Circle_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic_Circle_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Magic_Circle_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Magic_Circle_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Particle.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Particle.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle_5.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Particle_5.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle_5.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Particle_5.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Particle_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rays.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rays.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rays_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rays_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rays_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rune.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rune.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rune_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Aura_2\\Rune_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Aura_2\Rune_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Metal
+      Plane.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Metal
+      Plane.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Metal
+      Plane.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Metal
+      Plane.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Demo Scene\\Materials\\Metal
+      Plane.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Demo Scene\Materials\Metal
+      Plane.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Blast_Electric.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Blast_Electric.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Blast_Electric.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Blast_Electric.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Blast_Electric.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Blast_Electric.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_1.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Rays_1.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_1.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Rays_1.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_2.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Rays_2.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_2.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Rays_2.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Rays_2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Spiral_1.mat
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Spiral_1.mat"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Spiral_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Spiral_1.mat.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Materials\\Spiral_1.mat.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Materials\Spiral_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Rays_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Rays_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Rays_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Rays_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Rays_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Smoke_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Smoke_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Smoke_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Smoke_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Smoke_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Smoke_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Sonic_Pulse_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Sonic_Pulse_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Sonic_Pulse_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Sonic_Pulse_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Sonic_Pulse_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Sonic_Pulse_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Spiral_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Spiral_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_Doodle_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Spiral_Doodle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_Doodle_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_Doodle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\FX\\Spiral_Doodle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\FX\Spiral_Doodle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_3.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_3.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_3.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_3.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_4.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_4.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_4.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_4.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_5.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_5.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_5.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Glyphs\\Glyph_5.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Glyphs\Glyph_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_3.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_3.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_3.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_3.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_4.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_4.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_4.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_4.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_5.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_5.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_5.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Particles\\Particle_5.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Particles\Particle_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_1.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_1.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_1.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_1.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_10.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_10.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_10.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_10.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_2.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_2.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_2.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_2.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_3.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_3.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_3.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_3.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_4.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_4.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_4.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_4.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_5.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_5.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_5.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_5.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_6.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_6.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_6.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_6.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_7.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_7.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_7.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_7.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_8.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_8.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_8.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_8.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_9.png
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_9.png"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_9.png.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Runes\\Rune_9.png.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Runes\Rune_9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_1.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Glyph_1.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_1.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_1.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Glyph_1.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_1.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_2.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Glyph_2.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_2.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_2.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Glyph_2.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Glyph_2.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_1.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Loop_1.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_1.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_1.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Loop_1.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_1.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_2.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Loop_2.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_2.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_2.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Loop_2.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Loop_2.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_1.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_1.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_1.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_1.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_1.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_1.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_2.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_2.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_2.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_2.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_2.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_2.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_3.wav
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_3.wav"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_3.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_3.wav.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\AS_Magic_Aura_Construction_Kit_FREE\\Sound Kit\\Aura_Spawn_3.wav.meta"
+    projectPath: Assets\AS_Magic_Aura_Construction_Kit_FREE\Sound Kit\Aura_Spawn_3.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\Aura_1.prefab
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\Aura_1.prefab"
+    projectPath: Assets\Aura_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\Aura_1.prefab.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\Aura_1.prefab.meta"
+    projectPath: Assets\Aura_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\Aura_2.prefab
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\Aura_2.prefab"
+    projectPath: Assets\Aura_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Assets\Aura_2.prefab.meta
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Assets\\Aura_2.prefab.meta"
+    projectPath: Assets\Aura_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: final project\Assets\maptest.unity
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
       project\\Assets\\maptest.unity"
     projectPath: Assets\maptest.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assets\script\FindRoad.cs
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\FindRoad.cs"
-    projectPath: Assets\script\FindRoad.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assets\script\Materials.meta
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\Materials.meta"
-    projectPath: Assets\script\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\Materials\Triangle.mat
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\Materials\\Triangle.mat"
-    projectPath: Assets\script\Materials\Triangle.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\Materials\Triangle.mat.meta
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\Materials\\Triangle.mat.meta"
-    projectPath: Assets\script\Materials\Triangle.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\PlayerDeform.cs
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\PlayerDeform.cs"
-    projectPath: Assets\script\PlayerDeform.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Assets\script\PlayerMission.cs
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\PlayerMission.cs"
-    projectPath: Assets\script\PlayerMission.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\PlayerMission.cs.meta
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\PlayerMission.cs.meta"
-    projectPath: Assets\script\PlayerMission.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\test.cs
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\test.cs"
-    projectPath: Assets\script\test.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\script\test.cs.meta
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\script\\test.cs.meta"
-    projectPath: Assets\script\test.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Assets\UI\pauseGame.cs
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Assets\\UI\\pauseGame.cs"
-    projectPath: Assets\UI\pauseGame.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\APIUpdater\project-dependencies.graph
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\APIUpdater\\project-dependencies.graph"
-    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -198,500 +1139,1270 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: final project\Library\InspectorExpandedItems.asset
+  - path: final project\Library\metadata\01\01df9ed1484ea4a4aae37266197c6b7f
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\InspectorExpandedItems.asset"
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\metadata\20\202f353171a424e4191763c11d788880
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\20\\202f353171a424e4191763c11d788880"
-    projectPath: Library\metadata\20\202f353171a424e4191763c11d788880
+      project\\Library\\metadata\\01\\01df9ed1484ea4a4aae37266197c6b7f"
+    projectPath: Library\metadata\01\01df9ed1484ea4a4aae37266197c6b7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\20\202f353171a424e4191763c11d788880.info
+  - path: final project\Library\metadata\01\01df9ed1484ea4a4aae37266197c6b7f.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\20\\202f353171a424e4191763c11d788880.info"
-    projectPath: Library\metadata\20\202f353171a424e4191763c11d788880.info
+      project\\Library\\metadata\\01\\01df9ed1484ea4a4aae37266197c6b7f.info"
+    projectPath: Library\metadata\01\01df9ed1484ea4a4aae37266197c6b7f.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+  - path: final project\Library\metadata\02\027309a4ba30d4f70b92cab02eb29198
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\4b\\4ba2329b63d54f0187bcaa12486b1b0f"
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\metadata\87\87fe9829a52ee2e479ae9330e8f331c9
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\87\\87fe9829a52ee2e479ae9330e8f331c9"
-    projectPath: Library\metadata\87\87fe9829a52ee2e479ae9330e8f331c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\metadata\aa\aac35938f4328c947a3c1f3ef502b9cb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\aa\\aac35938f4328c947a3c1f3ef502b9cb"
-    projectPath: Library\metadata\aa\aac35938f4328c947a3c1f3ef502b9cb
+      project\\Library\\metadata\\02\\027309a4ba30d4f70b92cab02eb29198"
+    projectPath: Library\metadata\02\027309a4ba30d4f70b92cab02eb29198
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\aa\aac35938f4328c947a3c1f3ef502b9cb.info
+  - path: final project\Library\metadata\02\027309a4ba30d4f70b92cab02eb29198.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\aa\\aac35938f4328c947a3c1f3ef502b9cb.info"
-    projectPath: Library\metadata\aa\aac35938f4328c947a3c1f3ef502b9cb.info
+      project\\Library\\metadata\\02\\027309a4ba30d4f70b92cab02eb29198.info"
+    projectPath: Library\metadata\02\027309a4ba30d4f70b92cab02eb29198.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\be\bebe2ddfa16ed214aae0450525f44330
+  - path: final project\Library\metadata\03\036403167f16045058f0988a7bf56fef
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\be\\bebe2ddfa16ed214aae0450525f44330"
-    projectPath: Library\metadata\be\bebe2ddfa16ed214aae0450525f44330
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\metadata\c6\c659f07a8bcab25448b8ce8990218625
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\c6\\c659f07a8bcab25448b8ce8990218625"
-    projectPath: Library\metadata\c6\c659f07a8bcab25448b8ce8990218625
+      project\\Library\\metadata\\03\\036403167f16045058f0988a7bf56fef"
+    projectPath: Library\metadata\03\036403167f16045058f0988a7bf56fef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\c6\c659f07a8bcab25448b8ce8990218625.info
+  - path: final project\Library\metadata\03\036403167f16045058f0988a7bf56fef.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\c6\\c659f07a8bcab25448b8ce8990218625.info"
-    projectPath: Library\metadata\c6\c659f07a8bcab25448b8ce8990218625.info
+      project\\Library\\metadata\\03\\036403167f16045058f0988a7bf56fef.info"
+    projectPath: Library\metadata\03\036403167f16045058f0988a7bf56fef.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\d8\d806d6bf203b32a4a8138c4cc35ffd89
+  - path: final project\Library\metadata\03\039ee57a964c1439884d6687bc36f049
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\d8\\d806d6bf203b32a4a8138c4cc35ffd89"
-    projectPath: Library\metadata\d8\d806d6bf203b32a4a8138c4cc35ffd89
+      project\\Library\\metadata\\03\\039ee57a964c1439884d6687bc36f049"
+    projectPath: Library\metadata\03\039ee57a964c1439884d6687bc36f049
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\d8\d806d6bf203b32a4a8138c4cc35ffd89.info
+  - path: final project\Library\metadata\03\039ee57a964c1439884d6687bc36f049.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\d8\\d806d6bf203b32a4a8138c4cc35ffd89.info"
-    projectPath: Library\metadata\d8\d806d6bf203b32a4a8138c4cc35ffd89.info
+      project\\Library\\metadata\\03\\039ee57a964c1439884d6687bc36f049.info"
+    projectPath: Library\metadata\03\039ee57a964c1439884d6687bc36f049.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\metadata\e3\e38885dd1cda2eb4f84101f0f992f9fd
+  - path: final project\Library\metadata\16\169cc9dc838ef4ef0abafc9488af0198
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\metadata\\e3\\e38885dd1cda2eb4f84101f0f992f9fd"
-    projectPath: Library\metadata\e3\e38885dd1cda2eb4f84101f0f992f9fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp.pdb"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor.dll"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor-firstpass.dll"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Assembly-CSharp-Editor-firstpass.pdb"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-hlapi.Editor.dll"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-hlapi.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-hlapi.Runtime.dll"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-hlapi.Runtime.pdb"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-weaver.Editor.dll"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\com.unity.multiplayer-weaver.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.2D.Sprite.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.2D.Sprite.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.2D.Tilemap.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.2D.Tilemap.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Analytics.DataPrivacy.dll"
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Analytics.DataPrivacy.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.CollabProxy.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.CollabProxy.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Rider.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Rider.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll"
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.TextMeshPro.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.TextMeshPro.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.TextMeshPro.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Timeline.dll"
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Timeline.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Timeline.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.Timeline.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.VSCode.Editor.dll"
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\Unity.VSCode.Editor.pdb"
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.SpatialTracking.dll"
-    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.SpatialTracking.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.TestRunner.dll"
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.TestRunner.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.UI.dll"
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.UI.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.XR.LegacyInputHelpers.dll"
-    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEditor.XR.LegacyInputHelpers.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll"
-    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll"
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.UI.dll"
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.UI.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll"
-    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.pdb"
-    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\Library\ShaderCache\2\22d9724612b796041acb388ceadc3180.bin
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\2\\22d9724612b796041acb388ceadc3180.bin"
-    projectPath: Library\ShaderCache\2\22d9724612b796041acb388ceadc3180.bin
+      project\\Library\\metadata\\16\\169cc9dc838ef4ef0abafc9488af0198"
+    projectPath: Library\metadata\16\169cc9dc838ef4ef0abafc9488af0198
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\2\2648385f4e9343dbfff98a88c4cb1e77.bin
+  - path: final project\Library\metadata\16\169cc9dc838ef4ef0abafc9488af0198.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\2\\2648385f4e9343dbfff98a88c4cb1e77.bin"
-    projectPath: Library\ShaderCache\2\2648385f4e9343dbfff98a88c4cb1e77.bin
+      project\\Library\\metadata\\16\\169cc9dc838ef4ef0abafc9488af0198.info"
+    projectPath: Library\metadata\16\169cc9dc838ef4ef0abafc9488af0198.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\3\3eb8f5b0e4e021bf6aea876b0c4aec8f.bin
+  - path: final project\Library\metadata\17\17e637e4cccf345ce9a9fdae33186a8a
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\3\\3eb8f5b0e4e021bf6aea876b0c4aec8f.bin"
-    projectPath: Library\ShaderCache\3\3eb8f5b0e4e021bf6aea876b0c4aec8f.bin
+      project\\Library\\metadata\\17\\17e637e4cccf345ce9a9fdae33186a8a"
+    projectPath: Library\metadata\17\17e637e4cccf345ce9a9fdae33186a8a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\4\489bf07bc3e5824a91f3f5e2914d4149.bin
+  - path: final project\Library\metadata\17\17e637e4cccf345ce9a9fdae33186a8a.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\4\\489bf07bc3e5824a91f3f5e2914d4149.bin"
-    projectPath: Library\ShaderCache\4\489bf07bc3e5824a91f3f5e2914d4149.bin
+      project\\Library\\metadata\\17\\17e637e4cccf345ce9a9fdae33186a8a.info"
+    projectPath: Library\metadata\17\17e637e4cccf345ce9a9fdae33186a8a.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\8\8ab7609bd03064e3fde93ee34e607517.bin
+  - path: final project\Library\metadata\19\19994b89190a4475d9d78e4b819f419a
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\8\\8ab7609bd03064e3fde93ee34e607517.bin"
-    projectPath: Library\ShaderCache\8\8ab7609bd03064e3fde93ee34e607517.bin
+      project\\Library\\metadata\\19\\19994b89190a4475d9d78e4b819f419a"
+    projectPath: Library\metadata\19\19994b89190a4475d9d78e4b819f419a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\b\b7375c52134db4d67b9c2f1d4b6f2cd3.bin
+  - path: final project\Library\metadata\19\19994b89190a4475d9d78e4b819f419a.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\b\\b7375c52134db4d67b9c2f1d4b6f2cd3.bin"
-    projectPath: Library\ShaderCache\b\b7375c52134db4d67b9c2f1d4b6f2cd3.bin
+      project\\Library\\metadata\\19\\19994b89190a4475d9d78e4b819f419a.info"
+    projectPath: Library\metadata\19\19994b89190a4475d9d78e4b819f419a.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\d\d58278c72e3946f47c1ea39d17ffb0a2.bin
+  - path: final project\Library\metadata\23\23d1292e6537b4935ad031963236f4b1
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\d\\d58278c72e3946f47c1ea39d17ffb0a2.bin"
-    projectPath: Library\ShaderCache\d\d58278c72e3946f47c1ea39d17ffb0a2.bin
+      project\\Library\\metadata\\23\\23d1292e6537b4935ad031963236f4b1"
+    projectPath: Library\metadata\23\23d1292e6537b4935ad031963236f4b1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\d\d9e9386d19a9b57517e1d841cbf1665b.bin
+  - path: final project\Library\metadata\23\23d1292e6537b4935ad031963236f4b1.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\d\\d9e9386d19a9b57517e1d841cbf1665b.bin"
-    projectPath: Library\ShaderCache\d\d9e9386d19a9b57517e1d841cbf1665b.bin
+      project\\Library\\metadata\\23\\23d1292e6537b4935ad031963236f4b1.info"
+    projectPath: Library\metadata\23\23d1292e6537b4935ad031963236f4b1.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\d\dabd9520fb9897ea273b5a9f788865d9.bin
+  - path: final project\Library\metadata\25\25de142cce63a4513b03edb34831a88e
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\d\\dabd9520fb9897ea273b5a9f788865d9.bin"
-    projectPath: Library\ShaderCache\d\dabd9520fb9897ea273b5a9f788865d9.bin
+      project\\Library\\metadata\\25\\25de142cce63a4513b03edb34831a88e"
+    projectPath: Library\metadata\25\25de142cce63a4513b03edb34831a88e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: final project\Library\ShaderCache\e\ec9555da98794a4425af9b916f2d7a5e.bin
+  - path: final project\Library\metadata\25\25de142cce63a4513b03edb34831a88e.info
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\ShaderCache\\e\\ec9555da98794a4425af9b916f2d7a5e.bin"
-    projectPath: Library\ShaderCache\e\ec9555da98794a4425af9b916f2d7a5e.bin
+      project\\Library\\metadata\\25\\25de142cce63a4513b03edb34831a88e.info"
+    projectPath: Library\metadata\25\25de142cce63a4513b03edb34831a88e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\27\275b99d3e74484d229bfc373a82f52f0
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\27\\275b99d3e74484d229bfc373a82f52f0"
+    projectPath: Library\metadata\27\275b99d3e74484d229bfc373a82f52f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\27\275b99d3e74484d229bfc373a82f52f0.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\27\\275b99d3e74484d229bfc373a82f52f0.info"
+    projectPath: Library\metadata\27\275b99d3e74484d229bfc373a82f52f0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\28\28098280ac1914e709f5b480841a6976
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\28\\28098280ac1914e709f5b480841a6976"
+    projectPath: Library\metadata\28\28098280ac1914e709f5b480841a6976
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\28\28098280ac1914e709f5b480841a6976.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\28\\28098280ac1914e709f5b480841a6976.info"
+    projectPath: Library\metadata\28\28098280ac1914e709f5b480841a6976.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\28\28098280ac1914e709f5b480841a6976.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\28\\28098280ac1914e709f5b480841a6976.resource"
+    projectPath: Library\metadata\28\28098280ac1914e709f5b480841a6976.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\29\291fa2ba53548438eb775f95053100b7
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\29\\291fa2ba53548438eb775f95053100b7"
+    projectPath: Library\metadata\29\291fa2ba53548438eb775f95053100b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\29\291fa2ba53548438eb775f95053100b7.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\29\\291fa2ba53548438eb775f95053100b7.info"
+    projectPath: Library\metadata\29\291fa2ba53548438eb775f95053100b7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\2d\2dc7f4fb221384b6182a7c1112718f01
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\2d\\2dc7f4fb221384b6182a7c1112718f01"
+    projectPath: Library\metadata\2d\2dc7f4fb221384b6182a7c1112718f01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\2d\2dc7f4fb221384b6182a7c1112718f01.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\2d\\2dc7f4fb221384b6182a7c1112718f01.info"
+    projectPath: Library\metadata\2d\2dc7f4fb221384b6182a7c1112718f01.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\2f\2f65fe06bec9a4e44b226445a3f9d1bd
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\2f\\2f65fe06bec9a4e44b226445a3f9d1bd"
+    projectPath: Library\metadata\2f\2f65fe06bec9a4e44b226445a3f9d1bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\2f\2f65fe06bec9a4e44b226445a3f9d1bd.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\2f\\2f65fe06bec9a4e44b226445a3f9d1bd.info"
+    projectPath: Library\metadata\2f\2f65fe06bec9a4e44b226445a3f9d1bd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\35\35f68a1c8ceae479c9186899e7e1e143
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\35\\35f68a1c8ceae479c9186899e7e1e143"
+    projectPath: Library\metadata\35\35f68a1c8ceae479c9186899e7e1e143
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\35\35f68a1c8ceae479c9186899e7e1e143.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\35\\35f68a1c8ceae479c9186899e7e1e143.info"
+    projectPath: Library\metadata\35\35f68a1c8ceae479c9186899e7e1e143.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\36\36d92653c7f364164be726549e9f2e3a
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\36\\36d92653c7f364164be726549e9f2e3a"
+    projectPath: Library\metadata\36\36d92653c7f364164be726549e9f2e3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\36\36d92653c7f364164be726549e9f2e3a.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\36\\36d92653c7f364164be726549e9f2e3a.info"
+    projectPath: Library\metadata\36\36d92653c7f364164be726549e9f2e3a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\3d\3d8beae91332f4c13b4b2e41b1b0cec8
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\3d\\3d8beae91332f4c13b4b2e41b1b0cec8"
+    projectPath: Library\metadata\3d\3d8beae91332f4c13b4b2e41b1b0cec8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\3d\3d8beae91332f4c13b4b2e41b1b0cec8.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\3d\\3d8beae91332f4c13b4b2e41b1b0cec8.info"
+    projectPath: Library\metadata\3d\3d8beae91332f4c13b4b2e41b1b0cec8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\43\433dc99a7560b4f599ae5fdc56664126
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\43\\433dc99a7560b4f599ae5fdc56664126"
+    projectPath: Library\metadata\43\433dc99a7560b4f599ae5fdc56664126
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\43\433dc99a7560b4f599ae5fdc56664126.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\43\\433dc99a7560b4f599ae5fdc56664126.info"
+    projectPath: Library\metadata\43\433dc99a7560b4f599ae5fdc56664126.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\4b\4b000fd91053f4129a0d41af854f093c
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\4b\\4b000fd91053f4129a0d41af854f093c"
+    projectPath: Library\metadata\4b\4b000fd91053f4129a0d41af854f093c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\4b\4b000fd91053f4129a0d41af854f093c.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\4b\\4b000fd91053f4129a0d41af854f093c.info"
+    projectPath: Library\metadata\4b\4b000fd91053f4129a0d41af854f093c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\56\\5628b2d5e74ab4cc79e1ab991dd47d70"
+    projectPath: Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\56\\5628b2d5e74ab4cc79e1ab991dd47d70.info"
+    projectPath: Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\56\\5628b2d5e74ab4cc79e1ab991dd47d70.resource"
+    projectPath: Library\metadata\56\5628b2d5e74ab4cc79e1ab991dd47d70.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\5b\5b9af9896def2495c933e7037a4fc351
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\5b\\5b9af9896def2495c933e7037a4fc351"
+    projectPath: Library\metadata\5b\5b9af9896def2495c933e7037a4fc351
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\5b\5b9af9896def2495c933e7037a4fc351.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\5b\\5b9af9896def2495c933e7037a4fc351.info"
+    projectPath: Library\metadata\5b\5b9af9896def2495c933e7037a4fc351.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\5b\5bdd410ff4076415e960811c8a8b95ed
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\5b\\5bdd410ff4076415e960811c8a8b95ed"
+    projectPath: Library\metadata\5b\5bdd410ff4076415e960811c8a8b95ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\5b\5bdd410ff4076415e960811c8a8b95ed.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\5b\\5bdd410ff4076415e960811c8a8b95ed.info"
+    projectPath: Library\metadata\5b\5bdd410ff4076415e960811c8a8b95ed.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\61\61f3b13a211544cc791161937176117e
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\61\\61f3b13a211544cc791161937176117e"
+    projectPath: Library\metadata\61\61f3b13a211544cc791161937176117e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\61\61f3b13a211544cc791161937176117e.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\61\\61f3b13a211544cc791161937176117e.info"
+    projectPath: Library\metadata\61\61f3b13a211544cc791161937176117e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\62274b2bdde9c5747a878298bb5b8177
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\62274b2bdde9c5747a878298bb5b8177"
+    projectPath: Library\metadata\62\62274b2bdde9c5747a878298bb5b8177
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\62274b2bdde9c5747a878298bb5b8177.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\62274b2bdde9c5747a878298bb5b8177.info"
+    projectPath: Library\metadata\62\62274b2bdde9c5747a878298bb5b8177.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\623417711e2793e438b6bce699fcea60
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\623417711e2793e438b6bce699fcea60"
+    projectPath: Library\metadata\62\623417711e2793e438b6bce699fcea60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\623417711e2793e438b6bce699fcea60.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\623417711e2793e438b6bce699fcea60.info"
+    projectPath: Library\metadata\62\623417711e2793e438b6bce699fcea60.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\62a42f29c2766463abb8787680972643
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\62a42f29c2766463abb8787680972643"
+    projectPath: Library\metadata\62\62a42f29c2766463abb8787680972643
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\62\62a42f29c2766463abb8787680972643.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\62\\62a42f29c2766463abb8787680972643.info"
+    projectPath: Library\metadata\62\62a42f29c2766463abb8787680972643.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\65\65fd884df39c82449bcf1469b63a4d91
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\65\\65fd884df39c82449bcf1469b63a4d91"
+    projectPath: Library\metadata\65\65fd884df39c82449bcf1469b63a4d91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\65\65fd884df39c82449bcf1469b63a4d91.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\65\\65fd884df39c82449bcf1469b63a4d91.info"
+    projectPath: Library\metadata\65\65fd884df39c82449bcf1469b63a4d91.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\68\6885cc5ccd99a4fcc94f86bcd03d9a2b
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\68\\6885cc5ccd99a4fcc94f86bcd03d9a2b"
+    projectPath: Library\metadata\68\6885cc5ccd99a4fcc94f86bcd03d9a2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\68\6885cc5ccd99a4fcc94f86bcd03d9a2b.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\68\\6885cc5ccd99a4fcc94f86bcd03d9a2b.info"
+    projectPath: Library\metadata\68\6885cc5ccd99a4fcc94f86bcd03d9a2b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\6c\6c9601a195390475b8b18b93e3154fba
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\6c\\6c9601a195390475b8b18b93e3154fba"
+    projectPath: Library\metadata\6c\6c9601a195390475b8b18b93e3154fba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\6c\6c9601a195390475b8b18b93e3154fba.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\6c\\6c9601a195390475b8b18b93e3154fba.info"
+    projectPath: Library\metadata\6c\6c9601a195390475b8b18b93e3154fba.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\6f\6fb1a3bca19e97d4caa0596129c7735c
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\6f\\6fb1a3bca19e97d4caa0596129c7735c"
+    projectPath: Library\metadata\6f\6fb1a3bca19e97d4caa0596129c7735c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\6f\6fb1a3bca19e97d4caa0596129c7735c.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\6f\\6fb1a3bca19e97d4caa0596129c7735c.info"
+    projectPath: Library\metadata\6f\6fb1a3bca19e97d4caa0596129c7735c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\70\70592c1e0cbdb48329ec1b5aeaac2ee9
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\70\\70592c1e0cbdb48329ec1b5aeaac2ee9"
+    projectPath: Library\metadata\70\70592c1e0cbdb48329ec1b5aeaac2ee9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\70\70592c1e0cbdb48329ec1b5aeaac2ee9.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\70\\70592c1e0cbdb48329ec1b5aeaac2ee9.info"
+    projectPath: Library\metadata\70\70592c1e0cbdb48329ec1b5aeaac2ee9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\76\766a5371ae4b56b4883a3da2219c8c22
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\76\\766a5371ae4b56b4883a3da2219c8c22"
+    projectPath: Library\metadata\76\766a5371ae4b56b4883a3da2219c8c22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\76\766a5371ae4b56b4883a3da2219c8c22.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\76\\766a5371ae4b56b4883a3da2219c8c22.info"
+    projectPath: Library\metadata\76\766a5371ae4b56b4883a3da2219c8c22.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\76\769b1d456592b4516abfdc1bf5b2014f
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\76\\769b1d456592b4516abfdc1bf5b2014f"
+    projectPath: Library\metadata\76\769b1d456592b4516abfdc1bf5b2014f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\76\769b1d456592b4516abfdc1bf5b2014f.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\76\\769b1d456592b4516abfdc1bf5b2014f.info"
+    projectPath: Library\metadata\76\769b1d456592b4516abfdc1bf5b2014f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7b\7b58225624f9946b3b7e6d1c390bf1e7
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7b\\7b58225624f9946b3b7e6d1c390bf1e7"
+    projectPath: Library\metadata\7b\7b58225624f9946b3b7e6d1c390bf1e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7b\7b58225624f9946b3b7e6d1c390bf1e7.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7b\\7b58225624f9946b3b7e6d1c390bf1e7.info"
+    projectPath: Library\metadata\7b\7b58225624f9946b3b7e6d1c390bf1e7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7d\7d698cacca8194db88d71e84f10a3707
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7d\\7d698cacca8194db88d71e84f10a3707"
+    projectPath: Library\metadata\7d\7d698cacca8194db88d71e84f10a3707
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7d\7d698cacca8194db88d71e84f10a3707.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7d\\7d698cacca8194db88d71e84f10a3707.info"
+    projectPath: Library\metadata\7d\7d698cacca8194db88d71e84f10a3707.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7f\7f6e387c08212425986ce8785eac548b
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7f\\7f6e387c08212425986ce8785eac548b"
+    projectPath: Library\metadata\7f\7f6e387c08212425986ce8785eac548b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\7f\7f6e387c08212425986ce8785eac548b.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\7f\\7f6e387c08212425986ce8785eac548b.info"
+    projectPath: Library\metadata\7f\7f6e387c08212425986ce8785eac548b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\8a\8abf852b5c6ec4a18ac67fac66f65030
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\8a\\8abf852b5c6ec4a18ac67fac66f65030"
+    projectPath: Library\metadata\8a\8abf852b5c6ec4a18ac67fac66f65030
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\8a\8abf852b5c6ec4a18ac67fac66f65030.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\8a\\8abf852b5c6ec4a18ac67fac66f65030.info"
+    projectPath: Library\metadata\8a\8abf852b5c6ec4a18ac67fac66f65030.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\8f\8ff0dc9270bbb42f9bb20bb13fb106f3
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\8f\\8ff0dc9270bbb42f9bb20bb13fb106f3"
+    projectPath: Library\metadata\8f\8ff0dc9270bbb42f9bb20bb13fb106f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\8f\8ff0dc9270bbb42f9bb20bb13fb106f3.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\8f\\8ff0dc9270bbb42f9bb20bb13fb106f3.info"
+    projectPath: Library\metadata\8f\8ff0dc9270bbb42f9bb20bb13fb106f3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\90\90cc6544d68264765a9346ad77fac6a2
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\90\\90cc6544d68264765a9346ad77fac6a2"
+    projectPath: Library\metadata\90\90cc6544d68264765a9346ad77fac6a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\90\90cc6544d68264765a9346ad77fac6a2.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\90\\90cc6544d68264765a9346ad77fac6a2.info"
+    projectPath: Library\metadata\90\90cc6544d68264765a9346ad77fac6a2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\92\9263419daaf9344dd91f615129643e56
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\92\\9263419daaf9344dd91f615129643e56"
+    projectPath: Library\metadata\92\9263419daaf9344dd91f615129643e56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\92\9263419daaf9344dd91f615129643e56.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\92\\9263419daaf9344dd91f615129643e56.info"
+    projectPath: Library\metadata\92\9263419daaf9344dd91f615129643e56.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\97\970d6cf2ffe2247be9c6c8b59ddaca7b
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\97\\970d6cf2ffe2247be9c6c8b59ddaca7b"
+    projectPath: Library\metadata\97\970d6cf2ffe2247be9c6c8b59ddaca7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\97\970d6cf2ffe2247be9c6c8b59ddaca7b.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\97\\970d6cf2ffe2247be9c6c8b59ddaca7b.info"
+    projectPath: Library\metadata\97\970d6cf2ffe2247be9c6c8b59ddaca7b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\97\97fc7b7ef09154ce29b4d2cbb29f8712
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\97\\97fc7b7ef09154ce29b4d2cbb29f8712"
+    projectPath: Library\metadata\97\97fc7b7ef09154ce29b4d2cbb29f8712
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\97\97fc7b7ef09154ce29b4d2cbb29f8712.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\97\\97fc7b7ef09154ce29b4d2cbb29f8712.info"
+    projectPath: Library\metadata\97\97fc7b7ef09154ce29b4d2cbb29f8712.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\9e\9efe9f05d41df4cbc9166b0d0c9bbc63
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\9e\\9efe9f05d41df4cbc9166b0d0c9bbc63"
+    projectPath: Library\metadata\9e\9efe9f05d41df4cbc9166b0d0c9bbc63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\9e\9efe9f05d41df4cbc9166b0d0c9bbc63.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\9e\\9efe9f05d41df4cbc9166b0d0c9bbc63.info"
+    projectPath: Library\metadata\9e\9efe9f05d41df4cbc9166b0d0c9bbc63.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\a7\a764ed5ea99324ef8a66fc020c9b3466
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\a7\\a764ed5ea99324ef8a66fc020c9b3466"
+    projectPath: Library\metadata\a7\a764ed5ea99324ef8a66fc020c9b3466
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\a7\a764ed5ea99324ef8a66fc020c9b3466.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\a7\\a764ed5ea99324ef8a66fc020c9b3466.info"
+    projectPath: Library\metadata\a7\a764ed5ea99324ef8a66fc020c9b3466.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\a8\a89df11735ab543a2a9fb581eec08097
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\a8\\a89df11735ab543a2a9fb581eec08097"
+    projectPath: Library\metadata\a8\a89df11735ab543a2a9fb581eec08097
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\a8\a89df11735ab543a2a9fb581eec08097.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\a8\\a89df11735ab543a2a9fb581eec08097.info"
+    projectPath: Library\metadata\a8\a89df11735ab543a2a9fb581eec08097.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa03ee1f4d9b643b0969216f8712f777
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa03ee1f4d9b643b0969216f8712f777"
+    projectPath: Library\metadata\aa\aa03ee1f4d9b643b0969216f8712f777
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa03ee1f4d9b643b0969216f8712f777.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa03ee1f4d9b643b0969216f8712f777.info"
+    projectPath: Library\metadata\aa\aa03ee1f4d9b643b0969216f8712f777.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa39399883ba14669a7ab4747c8e5f29
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa39399883ba14669a7ab4747c8e5f29"
+    projectPath: Library\metadata\aa\aa39399883ba14669a7ab4747c8e5f29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa39399883ba14669a7ab4747c8e5f29.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa39399883ba14669a7ab4747c8e5f29.info"
+    projectPath: Library\metadata\aa\aa39399883ba14669a7ab4747c8e5f29.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa757f22e25b6406994f82443990feab
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa757f22e25b6406994f82443990feab"
+    projectPath: Library\metadata\aa\aa757f22e25b6406994f82443990feab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\aa\aa757f22e25b6406994f82443990feab.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\aa\\aa757f22e25b6406994f82443990feab.info"
+    projectPath: Library\metadata\aa\aa757f22e25b6406994f82443990feab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\ab19a59545b1949f3a52a3dfdc26b7da
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\ab19a59545b1949f3a52a3dfdc26b7da"
+    projectPath: Library\metadata\ab\ab19a59545b1949f3a52a3dfdc26b7da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\ab19a59545b1949f3a52a3dfdc26b7da.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\ab19a59545b1949f3a52a3dfdc26b7da.info"
+    projectPath: Library\metadata\ab\ab19a59545b1949f3a52a3dfdc26b7da.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\ab50b4694af2b410296680e2d230d9ff
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\ab50b4694af2b410296680e2d230d9ff"
+    projectPath: Library\metadata\ab\ab50b4694af2b410296680e2d230d9ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\ab50b4694af2b410296680e2d230d9ff.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\ab50b4694af2b410296680e2d230d9ff.info"
+    projectPath: Library\metadata\ab\ab50b4694af2b410296680e2d230d9ff.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\abe72efc00a61124ba2cf8d9527e65d1
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\abe72efc00a61124ba2cf8d9527e65d1"
+    projectPath: Library\metadata\ab\abe72efc00a61124ba2cf8d9527e65d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ab\abe72efc00a61124ba2cf8d9527e65d1.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ab\\abe72efc00a61124ba2cf8d9527e65d1.info"
+    projectPath: Library\metadata\ab\abe72efc00a61124ba2cf8d9527e65d1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ae\aeff0be63d81a4f349788dbdeb9c3339
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ae\\aeff0be63d81a4f349788dbdeb9c3339"
+    projectPath: Library\metadata\ae\aeff0be63d81a4f349788dbdeb9c3339
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ae\aeff0be63d81a4f349788dbdeb9c3339.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ae\\aeff0be63d81a4f349788dbdeb9c3339.info"
+    projectPath: Library\metadata\ae\aeff0be63d81a4f349788dbdeb9c3339.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\af\af835b9c9785b4dbd825c066a889ecff
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\af\\af835b9c9785b4dbd825c066a889ecff"
+    projectPath: Library\metadata\af\af835b9c9785b4dbd825c066a889ecff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\af\af835b9c9785b4dbd825c066a889ecff.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\af\\af835b9c9785b4dbd825c066a889ecff.info"
+    projectPath: Library\metadata\af\af835b9c9785b4dbd825c066a889ecff.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\b5\b5ade05b104c5499e8d928af021208d5
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\b5\\b5ade05b104c5499e8d928af021208d5"
+    projectPath: Library\metadata\b5\b5ade05b104c5499e8d928af021208d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\b5\b5ade05b104c5499e8d928af021208d5.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\b5\\b5ade05b104c5499e8d928af021208d5.info"
+    projectPath: Library\metadata\b5\b5ade05b104c5499e8d928af021208d5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ba\ba410e66d86d04fa08db560ec201dd6e
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ba\\ba410e66d86d04fa08db560ec201dd6e"
+    projectPath: Library\metadata\ba\ba410e66d86d04fa08db560ec201dd6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ba\ba410e66d86d04fa08db560ec201dd6e.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ba\\ba410e66d86d04fa08db560ec201dd6e.info"
+    projectPath: Library\metadata\ba\ba410e66d86d04fa08db560ec201dd6e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c3\c3805bb4461ee7f4a8b8835459a869e6
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c3\\c3805bb4461ee7f4a8b8835459a869e6"
+    projectPath: Library\metadata\c3\c3805bb4461ee7f4a8b8835459a869e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c3\c3805bb4461ee7f4a8b8835459a869e6.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c3\\c3805bb4461ee7f4a8b8835459a869e6.info"
+    projectPath: Library\metadata\c3\c3805bb4461ee7f4a8b8835459a869e6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c7\c77ffddaec289450d8293a82f0bf0423
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c7\\c77ffddaec289450d8293a82f0bf0423"
+    projectPath: Library\metadata\c7\c77ffddaec289450d8293a82f0bf0423
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c7\c77ffddaec289450d8293a82f0bf0423.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c7\\c77ffddaec289450d8293a82f0bf0423.info"
+    projectPath: Library\metadata\c7\c77ffddaec289450d8293a82f0bf0423.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c8\c831bc1b664ce475d92d1f42b506de8a
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c8\\c831bc1b664ce475d92d1f42b506de8a"
+    projectPath: Library\metadata\c8\c831bc1b664ce475d92d1f42b506de8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c8\c831bc1b664ce475d92d1f42b506de8a.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c8\\c831bc1b664ce475d92d1f42b506de8a.info"
+    projectPath: Library\metadata\c8\c831bc1b664ce475d92d1f42b506de8a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c9\c9f9115e3f83643e59d55e53262823f9
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c9\\c9f9115e3f83643e59d55e53262823f9"
+    projectPath: Library\metadata\c9\c9f9115e3f83643e59d55e53262823f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\c9\c9f9115e3f83643e59d55e53262823f9.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\c9\\c9f9115e3f83643e59d55e53262823f9.info"
+    projectPath: Library\metadata\c9\c9f9115e3f83643e59d55e53262823f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ce\ce25a40346a5a4e4fa551af7a593b876
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ce\\ce25a40346a5a4e4fa551af7a593b876"
+    projectPath: Library\metadata\ce\ce25a40346a5a4e4fa551af7a593b876
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ce\ce25a40346a5a4e4fa551af7a593b876.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ce\\ce25a40346a5a4e4fa551af7a593b876.info"
+    projectPath: Library\metadata\ce\ce25a40346a5a4e4fa551af7a593b876.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d3\d3f91ae8c366c4c2d9e8bc81d530307c
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d3\\d3f91ae8c366c4c2d9e8bc81d530307c"
+    projectPath: Library\metadata\d3\d3f91ae8c366c4c2d9e8bc81d530307c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d3\d3f91ae8c366c4c2d9e8bc81d530307c.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d3\\d3f91ae8c366c4c2d9e8bc81d530307c.info"
+    projectPath: Library\metadata\d3\d3f91ae8c366c4c2d9e8bc81d530307c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d4\\d4e15999d041f4bba890a97ff7f0c230"
+    projectPath: Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d4\\d4e15999d041f4bba890a97ff7f0c230.info"
+    projectPath: Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d4\\d4e15999d041f4bba890a97ff7f0c230.resource"
+    projectPath: Library\metadata\d4\d4e15999d041f4bba890a97ff7f0c230.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d6\d69ad2795eb354a9893a27bd4b35b34b
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d6\\d69ad2795eb354a9893a27bd4b35b34b"
+    projectPath: Library\metadata\d6\d69ad2795eb354a9893a27bd4b35b34b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d6\d69ad2795eb354a9893a27bd4b35b34b.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d6\\d69ad2795eb354a9893a27bd4b35b34b.info"
+    projectPath: Library\metadata\d6\d69ad2795eb354a9893a27bd4b35b34b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d76ac66dde43b481dad18b3943c0531a"
+    projectPath: Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d76ac66dde43b481dad18b3943c0531a.info"
+    projectPath: Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d76ac66dde43b481dad18b3943c0531a.resource"
+    projectPath: Library\metadata\d7\d76ac66dde43b481dad18b3943c0531a.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d78deecc6fa3040c9b6481172d2745cc"
+    projectPath: Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d78deecc6fa3040c9b6481172d2745cc.info"
+    projectPath: Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d7\\d78deecc6fa3040c9b6481172d2745cc.resource"
+    projectPath: Library\metadata\d7\d78deecc6fa3040c9b6481172d2745cc.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d9\d9e37a0acf3ad461f98379291737416b
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d9\\d9e37a0acf3ad461f98379291737416b"
+    projectPath: Library\metadata\d9\d9e37a0acf3ad461f98379291737416b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\d9\d9e37a0acf3ad461f98379291737416b.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\d9\\d9e37a0acf3ad461f98379291737416b.info"
+    projectPath: Library\metadata\d9\d9e37a0acf3ad461f98379291737416b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\db\db787a6176f3242e5aa2dfe433ebe17c
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\db\\db787a6176f3242e5aa2dfe433ebe17c"
+    projectPath: Library\metadata\db\db787a6176f3242e5aa2dfe433ebe17c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\db\db787a6176f3242e5aa2dfe433ebe17c.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\db\\db787a6176f3242e5aa2dfe433ebe17c.info"
+    projectPath: Library\metadata\db\db787a6176f3242e5aa2dfe433ebe17c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\dd\dda26367d17774a8ba9fc5a452f96143
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\dd\\dda26367d17774a8ba9fc5a452f96143"
+    projectPath: Library\metadata\dd\dda26367d17774a8ba9fc5a452f96143
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\dd\dda26367d17774a8ba9fc5a452f96143.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\dd\\dda26367d17774a8ba9fc5a452f96143.info"
+    projectPath: Library\metadata\dd\dda26367d17774a8ba9fc5a452f96143.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\e5\\e58b563b0100d4b73b563b9bd51aafa3"
+    projectPath: Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\e5\\e58b563b0100d4b73b563b9bd51aafa3.info"
+    projectPath: Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\e5\\e58b563b0100d4b73b563b9bd51aafa3.resource"
+    projectPath: Library\metadata\e5\e58b563b0100d4b73b563b9bd51aafa3.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ea\eaf769bc3745348ed909d27ad2053f7f
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ea\\eaf769bc3745348ed909d27ad2053f7f"
+    projectPath: Library\metadata\ea\eaf769bc3745348ed909d27ad2053f7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ea\eaf769bc3745348ed909d27ad2053f7f.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ea\\eaf769bc3745348ed909d27ad2053f7f.info"
+    projectPath: Library\metadata\ea\eaf769bc3745348ed909d27ad2053f7f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ec\ecc411d28bdd24af08d6bdc301e57abc
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ec\\ecc411d28bdd24af08d6bdc301e57abc"
+    projectPath: Library\metadata\ec\ecc411d28bdd24af08d6bdc301e57abc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\ec\ecc411d28bdd24af08d6bdc301e57abc.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\ec\\ecc411d28bdd24af08d6bdc301e57abc.info"
+    projectPath: Library\metadata\ec\ecc411d28bdd24af08d6bdc301e57abc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f1\\f126dd7aa600246c29bc92e20ceab0e7"
+    projectPath: Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f1\\f126dd7aa600246c29bc92e20ceab0e7.info"
+    projectPath: Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7.resource
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f1\\f126dd7aa600246c29bc92e20ceab0e7.resource"
+    projectPath: Library\metadata\f1\f126dd7aa600246c29bc92e20ceab0e7.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f1\f1dd36ae44d7d4beca104d6864664b76
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f1\\f1dd36ae44d7d4beca104d6864664b76"
+    projectPath: Library\metadata\f1\f1dd36ae44d7d4beca104d6864664b76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f1\f1dd36ae44d7d4beca104d6864664b76.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f1\\f1dd36ae44d7d4beca104d6864664b76.info"
+    projectPath: Library\metadata\f1\f1dd36ae44d7d4beca104d6864664b76.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f2\f2a73be4a5867496ca3fed38d4822bc3
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f2\\f2a73be4a5867496ca3fed38d4822bc3"
+    projectPath: Library\metadata\f2\f2a73be4a5867496ca3fed38d4822bc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f2\f2a73be4a5867496ca3fed38d4822bc3.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f2\\f2a73be4a5867496ca3fed38d4822bc3.info"
+    projectPath: Library\metadata\f2\f2a73be4a5867496ca3fed38d4822bc3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f4\f476d2a168ad941ce955acbb3522c455
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f4\\f476d2a168ad941ce955acbb3522c455"
+    projectPath: Library\metadata\f4\f476d2a168ad941ce955acbb3522c455
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f4\f476d2a168ad941ce955acbb3522c455.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f4\\f476d2a168ad941ce955acbb3522c455.info"
+    projectPath: Library\metadata\f4\f476d2a168ad941ce955acbb3522c455.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f4\f4b1e6fa0d005425487858e1fe2b1128
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f4\\f4b1e6fa0d005425487858e1fe2b1128"
+    projectPath: Library\metadata\f4\f4b1e6fa0d005425487858e1fe2b1128
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f4\f4b1e6fa0d005425487858e1fe2b1128.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f4\\f4b1e6fa0d005425487858e1fe2b1128.info"
+    projectPath: Library\metadata\f4\f4b1e6fa0d005425487858e1fe2b1128.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f5\f53744ecc552640b4ab6d6149447349d
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f5\\f53744ecc552640b4ab6d6149447349d"
+    projectPath: Library\metadata\f5\f53744ecc552640b4ab6d6149447349d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f5\f53744ecc552640b4ab6d6149447349d.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f5\\f53744ecc552640b4ab6d6149447349d.info"
+    projectPath: Library\metadata\f5\f53744ecc552640b4ab6d6149447349d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f7\f7fd4fc8d3b144b3888af43c1fd5a2f8
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f7\\f7fd4fc8d3b144b3888af43c1fd5a2f8"
+    projectPath: Library\metadata\f7\f7fd4fc8d3b144b3888af43c1fd5a2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f7\f7fd4fc8d3b144b3888af43c1fd5a2f8.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f7\\f7fd4fc8d3b144b3888af43c1fd5a2f8.info"
+    projectPath: Library\metadata\f7\f7fd4fc8d3b144b3888af43c1fd5a2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f8\f8ba6159d9d4cca439445c0d9e73ca56
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f8\\f8ba6159d9d4cca439445c0d9e73ca56"
+    projectPath: Library\metadata\f8\f8ba6159d9d4cca439445c0d9e73ca56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\f8\f8ba6159d9d4cca439445c0d9e73ca56.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\f8\\f8ba6159d9d4cca439445c0d9e73ca56.info"
+    projectPath: Library\metadata\f8\f8ba6159d9d4cca439445c0d9e73ca56.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\fc\fcf9168bdbb8140b08f5f1f9b9830907
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\fc\\fcf9168bdbb8140b08f5f1f9b9830907"
+    projectPath: Library\metadata\fc\fcf9168bdbb8140b08f5f1f9b9830907
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\fc\fcf9168bdbb8140b08f5f1f9b9830907.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\fc\\fcf9168bdbb8140b08f5f1f9b9830907.info"
+    projectPath: Library\metadata\fc\fcf9168bdbb8140b08f5f1f9b9830907.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\fd\fd3fcf33c070e427e8e0450c335713d3
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\fd\\fd3fcf33c070e427e8e0450c335713d3"
+    projectPath: Library\metadata\fd\fd3fcf33c070e427e8e0450c335713d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\metadata\fd\fd3fcf33c070e427e8e0450c335713d3.info
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\metadata\\fd\\fd3fcf33c070e427e8e0450c335713d3.info"
+    projectPath: Library\metadata\fd\fd3fcf33c070e427e8e0450c335713d3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\SceneVisibilityState.asset
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\SceneVisibilityState.asset"
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: final project\Library\ShaderCache\0\0dfb124fe3b61007232312763d887aa6.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\0\\0dfb124fe3b61007232312763d887aa6.bin"
+    projectPath: Library\ShaderCache\0\0dfb124fe3b61007232312763d887aa6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\1\1fb21892cac802cb79419c47f9b1a1a5.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\1\\1fb21892cac802cb79419c47f9b1a1a5.bin"
+    projectPath: Library\ShaderCache\1\1fb21892cac802cb79419c47f9b1a1a5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\2\29f780b9d84ecdf464bfbe3fe9783328.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\2\\29f780b9d84ecdf464bfbe3fe9783328.bin"
+    projectPath: Library\ShaderCache\2\29f780b9d84ecdf464bfbe3fe9783328.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\2\2cadf67935ed3d024f96319b4687b597.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\2\\2cadf67935ed3d024f96319b4687b597.bin"
+    projectPath: Library\ShaderCache\2\2cadf67935ed3d024f96319b4687b597.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\4\4859bf932b94e65010a3f9d6b8f7c163.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\4\\4859bf932b94e65010a3f9d6b8f7c163.bin"
+    projectPath: Library\ShaderCache\4\4859bf932b94e65010a3f9d6b8f7c163.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\4\4f5ec57896175daadb1860583de8f6d8.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\4\\4f5ec57896175daadb1860583de8f6d8.bin"
+    projectPath: Library\ShaderCache\4\4f5ec57896175daadb1860583de8f6d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\5\5fea29af36edafa7ae139494600d5347.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\5\\5fea29af36edafa7ae139494600d5347.bin"
+    projectPath: Library\ShaderCache\5\5fea29af36edafa7ae139494600d5347.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\c\c80f8e57a3446e6eaff0b511b4e3f008.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\c\\c80f8e57a3446e6eaff0b511b4e3f008.bin"
+    projectPath: Library\ShaderCache\c\c80f8e57a3446e6eaff0b511b4e3f008.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\c\cac9a469b820f55d8d49fd209d991d0f.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\c\\cac9a469b820f55d8d49fd209d991d0f.bin"
+    projectPath: Library\ShaderCache\c\cac9a469b820f55d8d49fd209d991d0f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\d\d42250eb3b9de9b32af2fc240ea68d37.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\d\\d42250eb3b9de9b32af2fc240ea68d37.bin"
+    projectPath: Library\ShaderCache\d\d42250eb3b9de9b32af2fc240ea68d37.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: final project\Library\ShaderCache\e\e02e69c6dd3196e1038c203f65b3b446.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\e\\e02e69c6dd3196e1038c203f65b3b446.bin"
+    projectPath: Library\ShaderCache\e\e02e69c6dd3196e1038c203f65b3b446.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -702,6 +2413,13 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: final project\Library\ShaderCache\f\f8a363eaa1fa66677e798f0f88fa52ca.bin
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Library\\ShaderCache\\f\\f8a363eaa1fa66677e798f0f88fa52ca.bin"
+    projectPath: Library\ShaderCache\f\f8a363eaa1fa66677e798f0f88fa52ca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: final project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
       project\\Library\\shadercompiler-UnityShaderCompiler.exe0.log"
@@ -730,129 +2448,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: final project\Library\StateCache\Hierarchy\09a976-37e70bc56dd3d93458.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\Hierarchy\\09a976-37e70bc56dd3d93458.json"
-    projectPath: Library\StateCache\Hierarchy\09a976-37e70bc56dd3d93458.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Library\StateCache\Hierarchy\09a976-mainStage.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\Hierarchy\\09a976-mainStage.json"
-    projectPath: Library\StateCache\Hierarchy\09a976-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: final project\Library\StateCache\Hierarchy\2fcd3a-mainStage.json
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
       project\\Library\\StateCache\\Hierarchy\\2fcd3a-mainStage.json"
     projectPath: Library\StateCache\Hierarchy\2fcd3a-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Library\StateCache\Hierarchy\b0712e-mainStage.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\Hierarchy\\b0712e-mainStage.json"
-    projectPath: Library\StateCache\Hierarchy\b0712e-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Library\StateCache\SceneView\1a8fbb-37e70bc56dd3d93458.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\SceneView\\1a8fbb-37e70bc56dd3d93458.json"
-    projectPath: Library\StateCache\SceneView\1a8fbb-37e70bc56dd3d93458.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Library\StateCache\SceneView\1a8fbb-mainStage.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\SceneView\\1a8fbb-mainStage.json"
-    projectPath: Library\StateCache\SceneView\1a8fbb-mainStage.json
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: final project\Library\StateCache\SceneView\5a17ab-mainStage.json
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Library\\StateCache\\SceneView\\5a17ab-mainStage.json"
-    projectPath: Library\StateCache\SceneView\5a17ab-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: final project\Library\StateCache\SceneView\aee05e-mainStage.json
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
       project\\Library\\StateCache\\SceneView\\aee05e-mainStage.json"
     projectPath: Library\StateCache\SceneView\aee05e-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp.csproj.CoreCompileInputs.cache"
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp.csprojAssemblyReference.cache"
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache"
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp-Editor.csprojAssemblyReference.cache"
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache"
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\obj\\Debug\\DesignTimeResolveAssemblyReferencesInput.cache"
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\ProjectSettings\EditorBuildSettings.asset
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\ProjectSettings\\EditorBuildSettings.asset"
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\ProjectSettings\TagManager.asset
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\ProjectSettings\\TagManager.asset"
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: final project\ProjectSettings\TimeManager.asset
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\ProjectSettings\\TimeManager.asset"
-    projectPath: ProjectSettings\TimeManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -863,178 +2469,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: final project\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
+      project\\Temp\\ProcessJobs\\e9a6970f79cd12d8b075e7d72f1b07cb.bakert"
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: final project\Temp\UnityLockfile
     fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
       project\\Temp\\UnityLockfile"
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-017e69a5f878c1b4eacf02382fb0c48b
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-017e69a5f878c1b4eacf02382fb0c48b"
-    projectPath: Temp\UnityTempFile-017e69a5f878c1b4eacf02382fb0c48b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-06eae9b0f831fee40b164014699d7280
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-06eae9b0f831fee40b164014699d7280"
-    projectPath: Temp\UnityTempFile-06eae9b0f831fee40b164014699d7280
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-0fc036d2e2a458f47b126dc3b4647958
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-0fc036d2e2a458f47b126dc3b4647958"
-    projectPath: Temp\UnityTempFile-0fc036d2e2a458f47b126dc3b4647958
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-1b641899cdd10834eaa84cc89c523f1e
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-1b641899cdd10834eaa84cc89c523f1e"
-    projectPath: Temp\UnityTempFile-1b641899cdd10834eaa84cc89c523f1e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-2d914cfeaf9d897498d314edc5546f4f
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-2d914cfeaf9d897498d314edc5546f4f"
-    projectPath: Temp\UnityTempFile-2d914cfeaf9d897498d314edc5546f4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-318224e8f762e6b4299cfef3296812a7
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-318224e8f762e6b4299cfef3296812a7"
-    projectPath: Temp\UnityTempFile-318224e8f762e6b4299cfef3296812a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-41aaa43e895b90042b740b3ef28fa6c4
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-41aaa43e895b90042b740b3ef28fa6c4"
-    projectPath: Temp\UnityTempFile-41aaa43e895b90042b740b3ef28fa6c4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-47f3b67e66800964cb2f5a9ca171a084
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-47f3b67e66800964cb2f5a9ca171a084"
-    projectPath: Temp\UnityTempFile-47f3b67e66800964cb2f5a9ca171a084
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-4b41339b804469746a53858a2a92e8dc
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-4b41339b804469746a53858a2a92e8dc"
-    projectPath: Temp\UnityTempFile-4b41339b804469746a53858a2a92e8dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-54a05f1875d9f5741aabb77f06e4da64
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-54a05f1875d9f5741aabb77f06e4da64"
-    projectPath: Temp\UnityTempFile-54a05f1875d9f5741aabb77f06e4da64
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-608735e6be79db447b768077551fd5c8
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-608735e6be79db447b768077551fd5c8"
-    projectPath: Temp\UnityTempFile-608735e6be79db447b768077551fd5c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-65f3a075db014904bb52b013d7c64ef5
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-65f3a075db014904bb52b013d7c64ef5"
-    projectPath: Temp\UnityTempFile-65f3a075db014904bb52b013d7c64ef5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-68579a925f8eff8409fe3f969cffccac
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-68579a925f8eff8409fe3f969cffccac"
-    projectPath: Temp\UnityTempFile-68579a925f8eff8409fe3f969cffccac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-6ec42a849c38d2c468cbbc2e489a90c2
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-6ec42a849c38d2c468cbbc2e489a90c2"
-    projectPath: Temp\UnityTempFile-6ec42a849c38d2c468cbbc2e489a90c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-769a9896ed8ad9b46bc0d887b2eddae5
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-769a9896ed8ad9b46bc0d887b2eddae5"
-    projectPath: Temp\UnityTempFile-769a9896ed8ad9b46bc0d887b2eddae5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-78339411b6df378479cf8b35ec19fe40
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-78339411b6df378479cf8b35ec19fe40"
-    projectPath: Temp\UnityTempFile-78339411b6df378479cf8b35ec19fe40
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-81641b0ef92eed34097e15d24c64176c
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-81641b0ef92eed34097e15d24c64176c"
-    projectPath: Temp\UnityTempFile-81641b0ef92eed34097e15d24c64176c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-85d05ab2f2babd040a863a5d894fa3da
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-85d05ab2f2babd040a863a5d894fa3da"
-    projectPath: Temp\UnityTempFile-85d05ab2f2babd040a863a5d894fa3da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-ae3a0d58423a25a478061a5173a44956
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-ae3a0d58423a25a478061a5173a44956"
-    projectPath: Temp\UnityTempFile-ae3a0d58423a25a478061a5173a44956
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-b2f6e05e34a832845aced44907dbabff
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-b2f6e05e34a832845aced44907dbabff"
-    projectPath: Temp\UnityTempFile-b2f6e05e34a832845aced44907dbabff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-b6438aa692272674394320f0322bb6e7
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-b6438aa692272674394320f0322bb6e7"
-    projectPath: Temp\UnityTempFile-b6438aa692272674394320f0322bb6e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-d19c2b93bf388734d889066eda158504
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-d19c2b93bf388734d889066eda158504"
-    projectPath: Temp\UnityTempFile-d19c2b93bf388734d889066eda158504
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-d756c55601efe924ba0ad7ed3358a3cc
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-d756c55601efe924ba0ad7ed3358a3cc"
-    projectPath: Temp\UnityTempFile-d756c55601efe924ba0ad7ed3358a3cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: final project\Temp\UnityTempFile-f050b9b13a857884eacb8b5120662562
-    fullPath: "D:\\\u8CC7\u5DE5\u4E09\\\u904A\u6232\\game-final\\game-final\\final
-      project\\Temp\\UnityTempFile-f050b9b13a857884eacb8b5120662562"
-    projectPath: Temp\UnityTempFile-f050b9b13a857884eacb8b5120662562
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
