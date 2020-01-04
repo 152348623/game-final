@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-01-04T21:39:38.984+08:00
-  initializedAtString: 2020-01-04T21:39:38.984+08:00
+  lastUpdatedAtString: 2020-01-05T01:51:38.045+08:00
+  initializedAtString: 2020-01-05T01:51:38.045+08:00
   currentGitRemote:
     name: origin
     url: https://github.com/152348623/game-final.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: mission
-    tracking: origin/mission
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: mission
+    name: master
     remote:
       name: origin
       url: https://github.com/152348623/game-final.git
-    trackingBranch: mission
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/152348623/game-final.git

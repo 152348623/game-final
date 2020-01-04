@@ -9,6 +9,8 @@ public class PlayerMission : MonoBehaviour
     float distance;
     public GameObject[] missionArray = new GameObject[4];   // 存變身物件
 
+    public GameObject missionUI;
+
     private int scene;
     // Start is called before the first frame update
     void Start()
@@ -79,6 +81,18 @@ public class PlayerMission : MonoBehaviour
             }
         }
 
+        if(missionObj.tag == "letter")
+        {
+            if (!missionObj.GetComponent<cakeslice.Outline>())   // 給deform outline的script
+                missionObj.AddComponent<cakeslice.Outline>();
+            missionObj.GetComponent<cakeslice.Outline>().color = 2;  // 顯示外框
+
+            if(Input.GetMouseButtonDown(0))
+            {
+                missionArray[i].SetActive(false);
+            }
+        }
+
     }
 
     private void OnTriggerExit(Collider other)
@@ -89,6 +103,11 @@ public class PlayerMission : MonoBehaviour
         {
             missionObj.GetComponent<cakeslice.Outline>().color = 0;
             distance = 100f;
+        }
+
+        if(missionObj.tag == "letter")
+        {
+            missionObj.GetComponent<cakeslice.Outline>().color = 0;
         }
     }
 

@@ -61,6 +61,9 @@ namespace cakeslice
         public Color lineColor0 = Color.red;
         public Color lineColor1 = Color.green;
         public Color lineColor2 = Color.blue;
+        public Color lineColor3 = Color.red;
+        public Color lineColor4 = Color.gray;
+
 
         public bool additiveRendering = false;
 
@@ -82,6 +85,10 @@ namespace cakeslice
         Material outline1Material;
         Material outline2Material;
         Material outline3Material;
+        Material outline4Material;
+        Material outline5Material;
+
+
         Material outlineEraseMaterial;
         Shader outlineShader;
         Shader outlineBufferShader;
@@ -100,8 +107,12 @@ namespace cakeslice
                 return outline1Material;
             else if(ID == 1)
                 return outline2Material;
-            else
+            else if (ID == 2)
                 return outline3Material;
+            else if(ID == 3)
+                return outline4Material;
+            else
+                return outline5Material;
         }
         List<Material> materialBuffer = new List<Material>();
         Material CreateMaterial(Color emissionColor)
@@ -294,6 +305,10 @@ namespace cakeslice
                 outline2Material = CreateMaterial(new Color(0, 1, 0, 0));
             if(outline3Material == null)
                 outline3Material = CreateMaterial(new Color(0, 0, 1, 0));
+            if (outline4Material == null)
+                outline4Material = CreateMaterial(new Color(1, 0, 0, 0));
+            if (outline5Material == null)
+                outline5Material = CreateMaterial(new Color(1, 1, 0, 0));
         }
 
         private void DestroyMaterials()
@@ -306,6 +321,10 @@ namespace cakeslice
             DestroyImmediate(outline1Material);
             DestroyImmediate(outline2Material);
             DestroyImmediate(outline3Material);
+            DestroyImmediate(outline4Material);
+            DestroyImmediate(outline5Material);
+
+
             outlineShader = null;
             outlineBufferShader = null;
             outlineShaderMaterial = null;
@@ -313,6 +332,10 @@ namespace cakeslice
             outline1Material = null;
             outline2Material = null;
             outline3Material = null;
+            outline4Material = null;
+            outline5Material = null;
+
+
         }
 
         public void UpdateMaterialsPublicProperties()
@@ -358,7 +381,9 @@ namespace cakeslice
                 outlineShaderMaterial.SetColor("_LineColor1", lineColor0 * lineColor0);
                 outlineShaderMaterial.SetColor("_LineColor2", lineColor1 * lineColor1);
                 outlineShaderMaterial.SetColor("_LineColor3", lineColor2 * lineColor2);
-                if(flipY)
+                outlineShaderMaterial.SetColor("_LineColor4", lineColor2 * lineColor2);
+
+                if (flipY)
                     outlineShaderMaterial.SetInt("_FlipY", 1);
                 else
                     outlineShaderMaterial.SetInt("_FlipY", 0);
