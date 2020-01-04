@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: magic-circle
-    tracking: 
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: magic-circle
+    name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/152348623/game-final.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/152348623/game-final.git
