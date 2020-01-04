@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-01-04T17:18:25.342+08:00
-  initializedAtString: 2020-01-04T17:18:25.342+08:00
+  lastUpdatedAtString: 2020-01-04T18:28:42.867+08:00
+  initializedAtString: 2020-01-04T18:28:42.867+08:00
   currentGitRemote:
     name: origin
     url: https://github.com/152348623/game-final.git
