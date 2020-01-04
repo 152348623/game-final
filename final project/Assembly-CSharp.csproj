@@ -134,6 +134,7 @@
     <Compile Include="Assets\script\test.cs" />
     <Compile Include="Assets\sky\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\UI\getImageUi.cs" />
+    <Compile Include="Assets\UI\getImageUimission.cs" />
     <Compile Include="Assets\UI\pauseGame.cs" />
     <Compile Include="Assets\UI\selectButton.cs" />
     <None Include="Assets\forest\GreenForest\PostProcessing\Resources\Shaders\DepthOfField.shader" />
@@ -182,6 +183,8 @@
     <None Include="Assets\forest\GreenForest\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\forest\GreenForest\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\forest\GreenForest\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+    <None Include="Assets\UI\Tiny Fantasy Icons\README.txt" />
+    <None Include="Assets\Sets - Gems\Shaders\Gem.shader" />
     <None Include="Assets\forest\GreenForest\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/unity/game-final/final project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
