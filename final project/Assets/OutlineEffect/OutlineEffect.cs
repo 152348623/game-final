@@ -86,6 +86,8 @@ namespace cakeslice
         Material outline2Material;
         Material outline3Material;
         Material outline4Material;
+        Material outline5Material;
+
 
         Material outlineEraseMaterial;
         Shader outlineShader;
@@ -107,8 +109,10 @@ namespace cakeslice
                 return outline2Material;
             else if (ID == 2)
                 return outline3Material;
-            else
+            else if(ID == 3)
                 return outline4Material;
+            else
+                return outline5Material;
         }
         List<Material> materialBuffer = new List<Material>();
         Material CreateMaterial(Color emissionColor)
@@ -303,6 +307,8 @@ namespace cakeslice
                 outline3Material = CreateMaterial(new Color(0, 0, 1, 0));
             if (outline4Material == null)
                 outline4Material = CreateMaterial(new Color(1, 0, 0, 0));
+            if (outline5Material == null)
+                outline5Material = CreateMaterial(new Color(1, 1, 0, 0));
         }
 
         private void DestroyMaterials()
@@ -316,6 +322,8 @@ namespace cakeslice
             DestroyImmediate(outline2Material);
             DestroyImmediate(outline3Material);
             DestroyImmediate(outline4Material);
+            DestroyImmediate(outline5Material);
+
 
             outlineShader = null;
             outlineBufferShader = null;
@@ -325,6 +333,8 @@ namespace cakeslice
             outline2Material = null;
             outline3Material = null;
             outline4Material = null;
+            outline5Material = null;
+
 
         }
 
@@ -371,7 +381,7 @@ namespace cakeslice
                 outlineShaderMaterial.SetColor("_LineColor1", lineColor0 * lineColor0);
                 outlineShaderMaterial.SetColor("_LineColor2", lineColor1 * lineColor1);
                 outlineShaderMaterial.SetColor("_LineColor3", lineColor2 * lineColor2);
-                outlineShaderMaterial.SetColor("_LineColor4", lineColor3 * lineColor3);
+                outlineShaderMaterial.SetColor("_LineColor4", lineColor2 * lineColor2);
 
                 if (flipY)
                     outlineShaderMaterial.SetInt("_FlipY", 1);

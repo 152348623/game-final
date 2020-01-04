@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-01-04T18:56:10.263+08:00
-  initializedAtString: 2020-01-04T18:56:10.241+08:00
+  lastUpdatedAtString: 2020-01-05T02:08:37.786+08:00
+  initializedAtString: 2020-01-05T02:08:37.748+08:00
   localBranches:
   - name: magic-circle
     tracking: origin/magic-circle

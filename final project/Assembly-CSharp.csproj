@@ -131,6 +131,7 @@
     <Compile Include="Assets\script\PlayerAction.cs" />
     <Compile Include="Assets\script\PlayerDeform.cs" />
     <Compile Include="Assets\script\PlayerMission.cs" />
+    <Compile Include="Assets\script\show_image.cs" />
     <Compile Include="Assets\script\test.cs" />
     <Compile Include="Assets\sky\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\UI\getImageUi.cs" />

@@ -8,6 +8,8 @@ TagManager:
   - deform
   - mission
   - letter
+  - moster
+  - monster
   layers:
   - Default
   - TransparentFX

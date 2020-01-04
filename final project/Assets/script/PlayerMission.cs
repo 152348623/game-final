@@ -85,11 +85,11 @@ public class PlayerMission : MonoBehaviour
         {
             if (!missionObj.GetComponent<cakeslice.Outline>())   // 給deform outline的script
                 missionObj.AddComponent<cakeslice.Outline>();
-            missionObj.GetComponent<cakeslice.Outline>().color = 3;  // 顯示外框
+            missionObj.GetComponent<cakeslice.Outline>().color = 2;  // 顯示外框
 
             if(Input.GetMouseButtonDown(0))
             {
-                
+                missionArray[i].SetActive(false);
             }
         }
 

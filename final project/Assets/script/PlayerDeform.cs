@@ -9,6 +9,9 @@ public class PlayerDeform : MonoBehaviour
     float distance;
     public GameObject[] deformArray = new GameObject[4];   // 存變身物件
 
+    public static bool player_die = false;
+    public static bool complete = false;
+
     private int scene;
     private int deformCount;
     // Start is called before the first frame update
@@ -80,6 +83,13 @@ public class PlayerDeform : MonoBehaviour
                     break;
                 }
             }
+        }
+
+
+        if (deformObj.tag == "monster")  //碰到敵人
+        {
+            playerObj.transform.GetChild(1).gameObject.SetActive(false);
+            player_die = true;
         }
 
     }
