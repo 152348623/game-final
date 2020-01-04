@@ -13,15 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-01-04T18:03:08.004+08:00
-  initializedAtString: 2020-01-04T17:17:54.205+08:00
+  lastUpdatedAtString: 2020-01-04T18:56:10.263+08:00
+  initializedAtString: 2020-01-04T18:56:10.241+08:00
   localBranches:
+  - name: magic-circle
+    tracking: origin/magic-circle
   - name: master
     tracking: origin/master
-  - name: mission
-    tracking: origin/mission
-  - name: yung_dev
-    tracking: origin/yung_dev
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -43,25 +41,19 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - magic-circle
     - master
-    - mission
-    - yung_dev
     values:
+    - name: magic-circle
+      remote:
+        name: origin
+        url: https://github.com/152348623/game-final.git
+      trackingBranch: magic-circle
     - name: master
       remote:
         name: origin
         url: https://github.com/152348623/game-final.git
       trackingBranch: master
-    - name: mission
-      remote:
-        name: origin
-        url: https://github.com/152348623/game-final.git
-      trackingBranch: mission
-    - name: yung_dev
-      remote:
-        name: origin
-        url: https://github.com/152348623/game-final.git
-      trackingBranch: yung_dev
   remoteConfigBranches:
     keys:
     - origin

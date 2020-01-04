@@ -132,8 +132,9 @@
     <Compile Include="Assets\script\PlayerDeform.cs" />
     <Compile Include="Assets\script\PlayerMission.cs" />
     <Compile Include="Assets\script\test.cs" />
-    <Compile Include="Assets\sky\AllSkyFree\AllSkyFree_Menu.cs" />
+    <Compile Include="Assets\sky\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\UI\getImageUi.cs" />
+    <Compile Include="Assets\UI\MissionUI.cs" />
     <Compile Include="Assets\UI\pauseGame.cs" />
     <Compile Include="Assets\UI\selectButton.cs" />
     <None Include="Assets\forest\GreenForest\PostProcessing\Resources\Shaders\DepthOfField.shader" />
