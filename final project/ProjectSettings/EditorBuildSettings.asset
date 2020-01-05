@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/HomeUI.unity
+    guid: 56699d70dac3d7348a6c73861d87014c
+  - enabled: 1
+    path: Assets/easy.unity
+    guid: 017cb2e3e93273f4e8ba46b51cbb8a86
+  - enabled: 1
+    path: Assets/hard.unity
+    guid: 998b84bb3b652f4409f23f6e3ecffbce
+  - enabled: 1
     path: Assets/level1.unity
     guid: 6f85ab14e458bf34d9ea80d06b37f8a2
-  - enabled: 1
-    path: Assets/maptest.unity
-    guid: 017cb2e3e93273f4e8ba46b51cbb8a86
   m_configObjects: {}

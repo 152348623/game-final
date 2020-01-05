@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
 public class PlayerDeform : MonoBehaviour
 {
     public GameObject playerObj;
@@ -25,8 +24,11 @@ public class PlayerDeform : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if(deformCount <5)
+        if(deformCount < 4)
             KeyDown();
+        if (SceneManager.GetActiveScene().buildIndex == 1)
+            deformCount = 0;
+
     }
 
     private bool IsSmallDistanceOfDeform(GameObject player, GameObject deform)   // 判斷player與範圍內的deformObj之間的距離
@@ -67,7 +69,7 @@ public class PlayerDeform : MonoBehaviour
             }
         }
 
-        if (deformObj.tag == "deform" && Input.GetKeyUp(KeyCode.F))  //碰到物件 可以獲得變身物件    F:獲取變身物件
+        if (deformObj.tag == "deform" && Input.GetKeyUp(KeyCode.F) && deformCount < 4)  //碰到物件 可以獲得變身物件    F:獲取變身物件
         {
             for (int i = 0; i < 4; i++)
             {
@@ -79,7 +81,7 @@ public class PlayerDeform : MonoBehaviour
                     deformArray[i].transform.position = playerObj.transform.position;
 
                     
-                    //deformCount++;
+                    deformCount++;
                     break;
                 }
             }
@@ -88,6 +90,7 @@ public class PlayerDeform : MonoBehaviour
 
         if (deformObj.tag == "monster")  //碰到敵人
         {
+            Time.timeScale = 1;
             playerObj.transform.GetChild(1).gameObject.SetActive(false);
             player_die = true;
         }

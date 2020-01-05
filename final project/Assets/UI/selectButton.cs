@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class selectButton : MonoBehaviour
 {
@@ -22,9 +23,8 @@ public class selectButton : MonoBehaviour
             eventSystem.SetSelectedGameObject(selectedObject);
             buttonSelected = true;
         }
+
     }
-    private void OnDisable()
-    {
-        buttonSelected = false;
-    }
+
+    
 }
