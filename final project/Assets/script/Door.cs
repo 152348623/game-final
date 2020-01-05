@@ -10,6 +10,7 @@ public class Door : MonoBehaviour
     private float fillTime = 0.05f;
     public bool isFinishDoor;
     public GameObject nextPanel;
+    public GameObject player;
     // Start is called before the first frame update
     void Start()
     {
@@ -46,15 +47,21 @@ public class Door : MonoBehaviour
             int index = SceneManager.GetActiveScene().buildIndex;
             if(index == 1)
             {
+                unlock();
                 Time.timeScale = 0;
                 nextPanel.SetActive(true);
             }
                 
             else if(index == 2)
             {
+                unlock();
                 Time.timeScale = 0;
                 nextPanel.SetActive(true);
             }
         }
+    }
+    public void unlock()
+    {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
     }
 }

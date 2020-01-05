@@ -47,6 +47,7 @@ public class Summons : MonoBehaviour
     }
     private void OnTriggerStay(Collider player)
     {
+        inCollider = true;
         if (player.tag == "Player" && isFinish == false)
         {
             for (int i = 0; i < 4; i++)
@@ -56,7 +57,6 @@ public class Summons : MonoBehaviour
                     ownMantra = true;
                 }
             }
-            inCollider = true;
         }
     }
     private void OnTriggerExit(Collider player)
