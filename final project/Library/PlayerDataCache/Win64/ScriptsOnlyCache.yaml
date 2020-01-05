@@ -19,13 +19,17 @@ ScriptsOnlyBuild:
     - keyUI
     - pauseGame
     - protector
-    - selectButton
     - show_image
     - vThirdPersonCamera
     - wish
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -44,6 +48,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
     com.unity.multiplayer-hlapi.Runtime.dll:
+    - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
     Assets/HomeUI.unity:
@@ -209,8 +214,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10934}
     - Class: 114
-      Script: {instanceID: 10956}
-    - Class: 114
       Script: {instanceID: 10958}
     - Class: 114
       Script: {instanceID: 11358}
@@ -345,8 +348,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10916}
     - Class: 114
       Script: {instanceID: 10934}
-    - Class: 114
-      Script: {instanceID: 10956}
     - Class: 114
       Script: {instanceID: 10958}
     - Class: 114
@@ -738,12 +739,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Invector.CharacterController
     className: vThirdPersonInput
-  - hash:
-      serializedVersion: 2
-      Hash: 394c360dcad9373402606d21c2eb629e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: selectButton
   - hash:
       serializedVersion: 2
       Hash: 9790d31b0ab71cfbf289b9353d785891

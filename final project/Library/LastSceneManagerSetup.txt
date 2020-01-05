@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/easy.unity
+- path: Assets/HomeUI.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

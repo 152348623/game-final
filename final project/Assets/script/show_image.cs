@@ -14,8 +14,9 @@ public class show_image : MonoBehaviour
     }
     void show()
     {
-        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
+        
         Time.timeScale = 0;
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
         image_die.gameObject.SetActive(true);
     }
     // Update is called once per frame
