@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Threading;
 
 public class show_image : MonoBehaviour
 {
-    public Image image_die;
+    public GameObject image_die;
     // Start is called before the first frame update
     void Start()
     {

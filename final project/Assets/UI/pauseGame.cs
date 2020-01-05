@@ -81,24 +81,32 @@ public class pauseGame : MonoBehaviour
     }
     public void mission1()
     {
+        Time.timeScale = 0;
+        isPause = true;
         pannelMission.SetActive(false);
         pannelContent.SetActive(true);
         pannelContent.transform.GetChild(1).transform.GetChild(0).gameObject.SetActive(true);
     }
     public void mission2()
     {
+        Time.timeScale = 0;
+        isPause = true;
         pannelMission.SetActive(false);
         pannelContent.SetActive(true);
         pannelContent.transform.GetChild(1).transform.GetChild(1).gameObject.SetActive(true);
     }
     public void mission3()
     {
+        Time.timeScale = 0;
+        isPause = true;
         pannelMission.SetActive(false);
         pannelContent.SetActive(true);
         pannelContent.transform.GetChild(1).transform.GetChild(2).gameObject.SetActive(true);
     }
     public void mission4()
     {
+        Time.timeScale = 0;
+        isPause = true;
         pannelMission.SetActive(false);
         pannelContent.SetActive(true);
         pannelContent.transform.GetChild(1).transform.GetChild(3).gameObject.SetActive(true);

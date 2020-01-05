@@ -2,21 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerMission : MonoBehaviour
 {
     public GameObject playerObj;
     float distance;
     public GameObject[] missionArray = new GameObject[4];   // 存變身物件
-
     public GameObject missionUI;
-
+    public GameObject Canvas;
+    public GameObject[] missionObject = new GameObject[4];  //存任務
+    public GameObject[] pointObject = new GameObject[4];
+    public Material alphaMaterial;
+    public int keyShard;
     private int scene;
     // Start is called before the first frame update
     void Start()
     {
         distance = 1000f;
         scene = SceneManager.GetActiveScene().buildIndex;
+        keyShard = 0;
     }
 
     // Update is called once per frame
@@ -90,6 +95,36 @@ public class PlayerMission : MonoBehaviour
             if(Input.GetMouseButtonDown(0))
             {
                  missionObj.SetActive(false);
+                switch (missionObj.ToString())
+                {
+                    case "missionLetter1 (UnityEngine.GameObject)":
+                        missionUI.transform.GetChild(1).GetComponent<Button>().interactable = true;
+                        pointObject[0].GetComponent<Renderer>().material = alphaMaterial;
+                        missionObject[0].SetActive(true);
+                        Canvas.GetComponent<pauseGame>().mission1();
+                        break;
+                    case "missionLetter2 (UnityEngine.GameObject)":
+                        missionUI.transform.GetChild(2).GetComponent<Button>().interactable = true;
+                        pointObject[1].GetComponent<Renderer>().material = alphaMaterial;
+                        missionObject[1].SetActive(true);
+                        Canvas.GetComponent<pauseGame>().mission2();
+                        break;
+                    case "missionLetter3 (UnityEngine.GameObject)":
+                        missionUI.transform.GetChild(3).GetComponent<Button>().interactable = true;
+                        pointObject[2].GetComponent<Renderer>().material = alphaMaterial;
+                        missionObject[2].SetActive(true);
+                        Canvas.GetComponent<pauseGame>().mission3();
+                        break;
+                    case "missionLetter4 (UnityEngine.GameObject)":
+                        missionUI.transform.GetChild(4).GetComponent<Button>().interactable = true;
+                        pointObject[3].GetComponent<Renderer>().material = alphaMaterial;
+                        missionObject[3].SetActive(true);
+                        Canvas.GetComponent<pauseGame>().mission4();
+                        break;
+                    default:
+                        break;
+                }
+
             }
         }
 
