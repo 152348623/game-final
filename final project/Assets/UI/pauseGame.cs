@@ -20,6 +20,7 @@ public class pauseGame : MonoBehaviour
     }
     void initial()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().lockCamera();
         Time.timeScale = 1;
         pannelUI.SetActive(false);
         pannelMission.SetActive(false);
@@ -39,6 +40,7 @@ public class pauseGame : MonoBehaviour
             isPause = true;
             pannelUI.SetActive(isPause);
             // print(pannelUI.GetComponent<InspectorNameAttribute>());
+            player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
             Time.timeScale = 0;
         }
         else if (Input.GetKeyDown(KeyCode.Escape) && isPause == true)
@@ -48,12 +50,14 @@ public class pauseGame : MonoBehaviour
     }
     public void resume()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().lockCamera();
         Time.timeScale = 1;
         isPause = false;
         pannelUI.SetActive(isPause);
     }
     public void restart()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().lockCamera();
         Time.timeScale = 1;
         int scene = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(scene);
@@ -81,6 +85,7 @@ public class pauseGame : MonoBehaviour
     }
     public void mission1()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
         Time.timeScale = 0;
         isPause = true;
         pannelMission.SetActive(false);
@@ -89,6 +94,7 @@ public class pauseGame : MonoBehaviour
     }
     public void mission2()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
         Time.timeScale = 0;
         isPause = true;
         pannelMission.SetActive(false);
@@ -97,6 +103,7 @@ public class pauseGame : MonoBehaviour
     }
     public void mission3()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
         Time.timeScale = 0;
         isPause = true;
         pannelMission.SetActive(false);
@@ -105,6 +112,7 @@ public class pauseGame : MonoBehaviour
     }
     public void mission4()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
         Time.timeScale = 0;
         isPause = true;
         pannelMission.SetActive(false);

@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class Door : MonoBehaviour
 {
     public Image Fill;
-    private float fillTime = 0.2f;
+    private float fillTime = 0.05f;
     public bool isFinishDoor;
     public GameObject nextPanel;
     // Start is called before the first frame update
@@ -50,9 +50,11 @@ public class Door : MonoBehaviour
                 nextPanel.SetActive(true);
             }
                 
-            /*else if(index == 2)
+            else if(index == 2)
             {
-            }*/
+                Time.timeScale = 0;
+                nextPanel.SetActive(true);
+            }
         }
     }
 }

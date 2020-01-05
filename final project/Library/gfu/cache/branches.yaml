@@ -13,23 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-01-05T02:08:37.786+08:00
-  initializedAtString: 2020-01-05T02:08:37.748+08:00
+  lastUpdatedAtString: 2020-01-06T02:00:54.967+08:00
+  initializedAtString: 2020-01-06T01:20:10.123+08:00
   localBranches:
-  - name: magic-circle
-    tracking: origin/magic-circle
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
   - name: origin/magic-circle
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   - name: origin/mission
-    tracking: '[None]'
-  - name: origin/yung_dev
     tracking: '[None]'
   remotes:
   - name: origin
@@ -41,14 +35,8 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - magic-circle
     - master
     values:
-    - name: magic-circle
-      remote:
-        name: origin
-        url: https://github.com/152348623/game-final.git
-      trackingBranch: magic-circle
     - name: master
       remote:
         name: origin
@@ -59,18 +47,11 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - magic-circle
       - master
       - mission
-      - yung_dev
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/152348623/game-final.git
-        trackingBranch: 
       - name: magic-circle
         remote:
           name: origin
@@ -82,11 +63,6 @@ MonoBehaviour:
           url: https://github.com/152348623/game-final.git
         trackingBranch: 
       - name: mission
-        remote:
-          name: origin
-          url: https://github.com/152348623/game-final.git
-        trackingBranch: 
-      - name: yung_dev
         remote:
           name: origin
           url: https://github.com/152348623/game-final.git

@@ -25,6 +25,10 @@ public class selectButton : MonoBehaviour
         }
 
     }
+    public void SetSelectButton()
+    {
+        eventSystem.SetSelectedGameObject(selectedObject);
+    }
 
     
 }

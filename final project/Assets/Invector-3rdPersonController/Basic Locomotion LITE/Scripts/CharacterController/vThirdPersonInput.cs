@@ -53,7 +53,14 @@ namespace Invector.CharacterController
             Cursor.visible = false;
             Cursor.lockState = CursorLockMode.Locked;
         }
-
+        public void lockCamera()
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+        }
+        public void unLockCamere()
+        {
+            Cursor.lockState = CursorLockMode.Confined;
+        }
         protected virtual void LateUpdate()
         {
             if (cc == null) return;             // returns if didn't find the controller		    

@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class show_image : MonoBehaviour
 {
     public GameObject image_die;
+    public GameObject player;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +14,8 @@ public class show_image : MonoBehaviour
     }
     void show()
     {
+        player.GetComponent<Invector.CharacterController.vThirdPersonInput>().unLockCamere();
+        Time.timeScale = 0;
         image_die.gameObject.SetActive(true);
     }
     // Update is called once per frame
@@ -20,7 +23,8 @@ public class show_image : MonoBehaviour
     {
         if (PlayerDeform.player_die == true)
         {
-            Invoke("show", 1f);
+            PlayerDeform.player_die = false;
+            show();
         }
     }
 }
