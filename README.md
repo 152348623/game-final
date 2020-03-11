@@ -11,4 +11,5 @@
 ## 測試影片
 
 ## 安裝方式
-[下載連接](https://drive.google.com/drive/u/1/folders/1PyyXznZStfIug-UnZ-3uA2zC5zA4AREM)把game.rar下載并且執行裡面的KillingDifferentSpace執行檔案
+[安裝檔案](https://drive.google.com/open?id=1VeFwmlwUETyhIYLA_3gHfSyozxPYuUM9)  
+把game.rar下載并且執行裡面的KillingDifferentSpace執行檔案
