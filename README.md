@@ -10,7 +10,7 @@
 ## 團隊
 [Potato](https://github.com/kukuman98)  
 [152348623](https://github.com/152348623)  
-波波  
+[波波]（https://github.com/LinTzuYi
 羊羊
 ## 測試影片
 [影片連接](https://drive.google.com/open?id=1dic2DtEz9pvwOhhGj8O5rEc8HHVYz3Hm)
