@@ -13,7 +13,7 @@
 [波波](https://github.com/LinTzuYi)  
 [羊羊](https://github.com/sheep2363)
 ## 測試影片
-[影片連接](https://drive.google.com/open?id=1dic2DtEz9pvwOhhGj8O5rEc8HHVYz3Hm)
+[影片連接](https://youtu.be/TyzT9L7pAw4)
 ## 安裝方式
 [安裝檔案](https://drive.google.com/open?id=1VeFwmlwUETyhIYLA_3gHfSyozxPYuUM9)  
 把game.rar下載并且執行裡面的KillingDifferentSpace執行檔案
